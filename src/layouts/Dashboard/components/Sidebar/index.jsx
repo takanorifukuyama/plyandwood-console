@@ -16,7 +16,7 @@ import {
   ListItem,
   ListItemIcon,
   ListItemText,
-  ListSubheader,
+  //ListSubheader,
   Typography
 } from '@material-ui/core';
 
@@ -28,7 +28,7 @@ import {
   LockOpenOutlined as LockOpenIcon,
   TextFields as TextFieldsIcon,
   ImageOutlined as ImageIcon,
-  InfoOutlined as InfoIcon,
+  // InfoOutlined as InfoIcon,
   AccountBoxOutlined as AccountBoxIcon,
   SettingsOutlined as SettingsIcon
 } from '@material-ui/icons';
@@ -196,7 +196,7 @@ class Sidebar extends Component {
             />
           </ListItem>
         </List>
-        <Divider className={classes.listDivider} />
+        {/* <Divider className={classes.listDivider} />
         <List
           component="div"
           disablePadding
@@ -220,7 +220,7 @@ class Sidebar extends Component {
               primary="Customer support"
             />
           </ListItem>
-        </List>
+        </List> */}
       </nav>
     );
   }
