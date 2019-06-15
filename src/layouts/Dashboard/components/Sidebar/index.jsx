@@ -25,9 +25,9 @@ import {
   DashboardOutlined as DashboardIcon,
   PeopleOutlined as PeopleIcon,
   ShoppingBasketOutlined as ShoppingBasketIcon,
-  LockOpenOutlined as LockOpenIcon,
-  TextFields as TextFieldsIcon,
-  ImageOutlined as ImageIcon,
+  // LockOpenOutlined as LockOpenIcon,
+  // TextFields as TextFieldsIcon,
+  // ImageOutlined as ImageIcon,
   // InfoOutlined as InfoIcon,
   AccountBoxOutlined as AccountBoxIcon,
   SettingsOutlined as SettingsIcon
@@ -52,7 +52,8 @@ class Sidebar extends Component {
             <img
               alt="Brainalytica logo"
               className={classes.logoImage}
-              src="/images/logos/brainalytica_logo.svg"
+              src="/images/logos/plyandwoodlogo.png"
+              style={{width:'12vw'}}
             />
           </Link>
         </div>
@@ -69,13 +70,13 @@ class Sidebar extends Component {
             className={classes.nameText}
             variant="h6"
           >
-            Roman Kutepov
+            Plywood Taro
           </Typography>
           <Typography
             className={classes.bioText}
             variant="caption"
           >
-            Brain Director
+            Driver
           </Typography>
         </div>
         <Divider className={classes.profileDivider} />
@@ -108,7 +109,7 @@ class Sidebar extends Component {
             </ListItemIcon>
             <ListItemText
               classes={{ primary: classes.listItemText }}
-              primary="Users"
+              primary="Customer"
             />
           </ListItem>
           <ListItem
@@ -125,7 +126,7 @@ class Sidebar extends Component {
               primary="Products"
             />
           </ListItem>
-          <ListItem
+          {/* <ListItem
             activeClassName={classes.activeListItem}
             className={classes.listItem}
             component={NavLink}
@@ -138,8 +139,8 @@ class Sidebar extends Component {
               classes={{ primary: classes.listItemText }}
               primary="Authentication"
             />
-          </ListItem>
-          <ListItem
+          </ListItem> */}
+          {/* <ListItem
             activeClassName={classes.activeListItem}
             className={classes.listItem}
             component={NavLink}
@@ -152,8 +153,8 @@ class Sidebar extends Component {
               classes={{ primary: classes.listItemText }}
               primary="Typography"
             />
-          </ListItem>
-          <ListItem
+          </ListItem> */}
+          {/* <ListItem
             activeClassName={classes.activeListItem}
             className={classes.listItem}
             component={NavLink}
@@ -166,7 +167,7 @@ class Sidebar extends Component {
               classes={{ primary: classes.listItemText }}
               primary="Icons and Images"
             />
-          </ListItem>
+          </ListItem> */}
           <ListItem
             activeClassName={classes.activeListItem}
             className={classes.listItem}
