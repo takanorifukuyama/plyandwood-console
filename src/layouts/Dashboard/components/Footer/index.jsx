@@ -34,11 +34,13 @@ class Footer extends Component {
           className={classes.company}
           variant="body1"
         >
-          &copy; Devias Io. 2019
+          &copy; PLY & WOOD Inc. 2019
         </Typography>
         <Typography variant="caption">
-          Created with love for the environment. By designers and developers who
-          love to work together in offices!
+        ・森林再生空間の提案<br/>
+        ・リモデル・プランニング<br/>
+        ・総合マーケティング・ブランディング・合板の仕入および企画販売<br/>
+        ・建設資材の仕入および企画販売・合板の加工・コンサルティング・運送業<br/>
         </Typography>
       </div>
     );
