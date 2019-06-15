@@ -53,7 +53,10 @@ class Sidebar extends Component {
               alt="Brainalytica logo"
               className={classes.logoImage}
               src="/images/logos/plyandwoodlogo.png"
-              style={{width:'12vw'}}
+              style={{
+                marginTop: '3px',
+                marginBottom: '3px',
+              }}
             />
           </Link>
         </div>
