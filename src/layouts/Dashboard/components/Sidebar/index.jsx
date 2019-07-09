@@ -25,7 +25,7 @@ import {
   DashboardOutlined as DashboardIcon,
   PeopleOutlined as PeopleIcon,
   ShoppingBasketOutlined as ShoppingBasketIcon,
-  // LockOpenOutlined as LockOpenIcon,
+  LockOpenOutlined as LockOpenIcon,
   // TextFields as TextFieldsIcon,
   // ImageOutlined as ImageIcon,
   // InfoOutlined as InfoIcon,
@@ -129,20 +129,20 @@ class Sidebar extends Component {
               primary="Products"
             />
           </ListItem>
-          {/* <ListItem
+          <ListItem
             activeClassName={classes.activeListItem}
             className={classes.listItem}
             component={NavLink}
-            to="/sign-in"
+            to="/orders"
           >
             <ListItemIcon className={classes.listItemIcon}>
               <LockOpenIcon />
             </ListItemIcon>
             <ListItemText
               classes={{ primary: classes.listItemText }}
-              primary="Authentication"
+              primary="Orders (not active)"
             />
-          </ListItem> */}
+          </ListItem>
           {/* <ListItem
             activeClassName={classes.activeListItem}
             className={classes.listItem}

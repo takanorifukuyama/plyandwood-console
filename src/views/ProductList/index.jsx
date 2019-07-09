@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 
 // Externals
 import PropTypes from 'prop-types';
@@ -28,7 +28,7 @@ import { Dashboard as DashboardLayout } from 'layouts';
 import { getProducts } from 'services/product';
 
 // Custom components
-import { ProductsToolbar, ProductCard } from './components';
+import { ProductsToolbar, SimpleTable } from './components';
 
 // Component styles
 import styles from './styles';
@@ -103,19 +103,7 @@ class ProductList extends Component {
         container
         spacing={3}
       >
-        {products.map(product => (
-          <Grid
-            item
-            key={product.id}
-            lg={4}
-            md={6}
-            xs={12}
-          >
-            <Link to="#">
-              <ProductCard product={product} />
-            </Link>
-          </Grid>
-        ))}
+        <SimpleTable/>
       </Grid>
     );
   }
