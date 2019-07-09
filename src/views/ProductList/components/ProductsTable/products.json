@@ -1,0 +1,8554 @@
+[
+  {
+    "code": 100030010020,
+    "product": "しな合板 T2 (F4S) 3mm 1Mx2M",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.63
+  },
+  {
+    "code": 100030030060,
+    "product": "しな合板 T2 (F4S) 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 100030030070,
+    "product": "しな合板 T2 (F4S) 3mm 3尺x7尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.62
+  },
+  {
+    "code": 100030030080,
+    "product": "しな合板 T2 (F4S) 3mm 3尺x8尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 100030040080,
+    "product": "しな合板 T2 (F4S) 3mm 4尺x8尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 100040010020,
+    "product": "しな合板 T2 (F4S) 4mm 1Mx2M",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.84
+  },
+  {
+    "code": 100040030060,
+    "product": "しな合板 T2 (F4S) 4mm 3尺x6尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 100040030080,
+    "product": "しな合板 T2 (F4S) 4mm 3尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5
+  },
+  {
+    "code": 100040040080,
+    "product": "しな合板 T2 (F4S) 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 100040300300,
+    "product": "しなｶｯﾄ合板T2 ⑥ 4mm 1尺 x 1尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 0.23
+  },
+  {
+    "code": 100040300450,
+    "product": "しなｶｯﾄ合板T2 ⑧ 4mm 1尺 x 1.5尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 0.34
+  },
+  {
+    "code": 100040300600,
+    "product": "しなｶｯﾄ合板T2 ⑦ 4mm 1尺 x 2尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 0.45
+  },
+  {
+    "code": 100040300900,
+    "product": "しなｶｯﾄ合板T2 ④ 4mm 1尺 x 3尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 0.68
+  },
+  {
+    "code": 100040450450,
+    "product": "しなｶｯﾄ合板T2 ⑤ 4mm 1.5尺 x 1.5尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 0.51
+  },
+  {
+    "code": 100040450900,
+    "product": "しなｶｯﾄ合板T2 ③ 4mm 1.5尺 x 3尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 1.02
+  },
+  {
+    "code": 100040600900,
+    "product": "しなｶｯﾄ合板T2 ② 4mm 2尺 x 3尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 1.36
+  },
+  {
+    "code": 100040900900,
+    "product": "しなｶｯﾄ合板T2 ① 4mm 3尺 x 3尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 2.04
+  },
+  {
+    "code": 100055010020,
+    "product": "しな合板 T2 (F4S) 5.5mm 1Mx2M",
+    "shick": 5.5,
+    "width": 1000,
+    "height": 2000,
+    "weight": 6.66
+  },
+  {
+    "code": 100055030060,
+    "product": "しな合板 T2 (F4S) 5.5mm 3尺x6尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.68
+  },
+  {
+    "code": 100055030070,
+    "product": "しな合板 T2 (F4S) 5.5mm 3尺x7尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 6.63
+  },
+  {
+    "code": 100055030080,
+    "product": "しな合板 T2 (F4S) 5.5mm 3尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 7.58
+  },
+  {
+    "code": 100055040080,
+    "product": "しな合板 T2 (F4S) 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 100055300300,
+    "product": "しなｶｯﾄ合板T2 ⑭ 5.5mm 1尺 x 1尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 0.31
+  },
+  {
+    "code": 100055300450,
+    "product": "しなｶｯﾄ合板T2 ⑯ 5.5mm 1尺 x 1.5尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 0.47
+  },
+  {
+    "code": 100055300600,
+    "product": "しなｶｯﾄ合板T2 ⑮ 5.5mm 1尺 x 2尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 0.62
+  },
+  {
+    "code": 100055300900,
+    "product": "しなｶｯﾄ合板T2 ⑫ 5.5mm 1尺 x 3尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 0.94
+  },
+  {
+    "code": 100055450450,
+    "product": "しなｶｯﾄ合板T2 ⑬ 5.5mm 1.5尺 x 1.5尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 0.7
+  },
+  {
+    "code": 100055450900,
+    "product": "しなｶｯﾄ合板T2 ⑪ 5.5mm 1.5尺 x 3尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 1.41
+  },
+  {
+    "code": 100055600900,
+    "product": "しなｶｯﾄ合板T2 ⑩ 5.5mm 2尺 x 3尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 1.87
+  },
+  {
+    "code": 100055900900,
+    "product": "しなｶｯﾄ合板T2 ⑨ 5.5mm 3尺 x 3尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 2.81
+  },
+  {
+    "code": 100060030060,
+    "product": "しな合板 T2 (F4S) 6mm 3尺x6尺",
+    "shick": 6,
+    "width": 0,
+    "height": 0,
+    "weight": 6.2
+  },
+  {
+    "code": 100090030060,
+    "product": "しな合板 T2 (F4S) 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 100090300300,
+    "product": "しなｶｯﾄ合板T2 (22) 9mm 1尺 x 1尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 0.51
+  },
+  {
+    "code": 100090300450,
+    "product": "しなｶｯﾄ合板T2 (24) 9mm 1尺 x 1.5尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 0.77
+  },
+  {
+    "code": 100090300600,
+    "product": "しなｶｯﾄ合板T2 (23) 9mm 1尺 x 2尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 1.02
+  },
+  {
+    "code": 100090300900,
+    "product": "しなｶｯﾄ合板T2 ⑳ 9mm 1尺 x 3尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 1.53
+  },
+  {
+    "code": 100090450450,
+    "product": "しなｶｯﾄ合板T2 (21) 9mm 1.5尺 x 1.5尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 1.15
+  },
+  {
+    "code": 100090450900,
+    "product": "しなｶｯﾄ合板T2 ⑲ 9mm 1.5尺 x 3尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 2.3
+  },
+  {
+    "code": 100090600900,
+    "product": "しなｶｯﾄ合板T2 ⑱ 9mm 2尺 x 3尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 3.07
+  },
+  {
+    "code": 100090900900,
+    "product": "しなｶｯﾄ合板T2 ⑰ 9mm 3尺 x 3尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 4.6
+  },
+  {
+    "code": 100120030060,
+    "product": "しな合板 T2 (F4S) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 100120300300,
+    "product": "しなｶｯﾄ合板T2 (30) 12mm 1尺 x 1尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 0.68
+  },
+  {
+    "code": 100120300450,
+    "product": "しなｶｯﾄ合板T2 (32) 12mm 1尺 x 1.5尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 1.02
+  },
+  {
+    "code": 100120300600,
+    "product": "しなｶｯﾄ合板T2 (31) 12mm 1尺 x 2尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 1.36
+  },
+  {
+    "code": 100120300900,
+    "product": "しなｶｯﾄ合板T2 (28) 12mm 1尺 x 3尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 2.04
+  },
+  {
+    "code": 100120450450,
+    "product": "しなｶｯﾄ合板T2 (29) 12mm 1.5尺 x 1.5尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 1.53
+  },
+  {
+    "code": 100120450900,
+    "product": "しなｶｯﾄ合板T2 (27) 12mm 1.5尺 x 3尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 3.07
+  },
+  {
+    "code": 100120600900,
+    "product": "しなｶｯﾄ合板T2 (26) 12mm 2尺 x 3尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 4.9
+  },
+  {
+    "code": 100120900900,
+    "product": "しなｶｯﾄ合板T2 (25) 12mm 3尺 x 3尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 6.13
+  },
+  {
+    "code": 100150030060,
+    "product": "しな合板 T2 (F4S) 15mm 3尺x6尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 15.5
+  },
+  {
+    "code": 102,
+    "product": "しなｳｪﾙ塗装(F4S)",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 102055030060,
+    "product": "しな塗装(F4S) 5.5mm 3尺x6尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.68
+  },
+  {
+    "code": 110,
+    "product": "しな合板 T1(F4S)",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 110030030060,
+    "product": "しな合板 T1(F4S) 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 110040030060,
+    "product": "しな合板 T1(F4S) 4mm 3尺x6尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 110040040080,
+    "product": "しな合板 T1(F4S) 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 110055030060,
+    "product": "しな合板 T1(F4S) 5.5mm 3尺x6尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.68
+  },
+  {
+    "code": 110090030060,
+    "product": "しな合板 T1(F4S) 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 120,
+    "product": "ｼﾅL/C(F4S)",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 120090030060,
+    "product": "ｼﾅL/C(F4S) 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 120120030060,
+    "product": "ｼﾅL/C(F4S) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 120120030080,
+    "product": "ｼﾅL/C(F4S) 12mm 3尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 16.53
+  },
+  {
+    "code": 120120040080,
+    "product": "ｼﾅL/C(F4S) 12mm 4尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 22.04
+  },
+  {
+    "code": 120150030060,
+    "product": "ｼﾅL/C(F4S) 15mm 3尺x6尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 15.5
+  },
+  {
+    "code": 120150030080,
+    "product": "ｼﾅL/C(F4S) 15mm 3尺x8尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 20.67
+  },
+  {
+    "code": 120150040080,
+    "product": "ｼﾅL/C(F4S) 15mm 4尺x8尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 27.55
+  },
+  {
+    "code": 120180030060,
+    "product": "ｼﾅL/C(F4S) 18mm 3尺x6尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 18.6
+  },
+  {
+    "code": 120180030080,
+    "product": "ｼﾅL/C(F4S) 18mm 3尺x8尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 24.8
+  },
+  {
+    "code": 120180040080,
+    "product": "ｼﾅL/C(F4S) 18mm 4尺x8尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 33.06
+  },
+  {
+    "code": 120210030060,
+    "product": "ｼﾅL/C(F4S) 21mm 3尺x6尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 21.7
+  },
+  {
+    "code": 120210030080,
+    "product": "ｼﾅL/C(F4S) 21mm 3尺x8尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 28.93
+  },
+  {
+    "code": 120210040080,
+    "product": "ｼﾅL/C(F4S) 21mm 4尺x8尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 38.58
+  },
+  {
+    "code": 120240030060,
+    "product": "ｼﾅL/C(F4S) 24mm 3尺x6尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 24.8
+  },
+  {
+    "code": 120240030080,
+    "product": "ｼﾅL/C(F4S) 24mm 3尺x8尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 33.06
+  },
+  {
+    "code": 120240040080,
+    "product": "ｼﾅL/C(F4S) 24mm 4尺x8尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 44.09
+  },
+  {
+    "code": 120270040080,
+    "product": "ｼﾅL/C(F4S) 27mm 4尺x8尺",
+    "shick": 27,
+    "width": 0,
+    "height": 0,
+    "weight": 49.6
+  },
+  {
+    "code": 120300030060,
+    "product": "ｼﾅL/C(F4S) 30mm 3尺x6尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 31
+  },
+  {
+    "code": 120300030080,
+    "product": "ｼﾅL/C(F4S) 30mm 3尺x8尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 41.33
+  },
+  {
+    "code": 120300040080,
+    "product": "ｼﾅL/C(F4S) 30mm 4尺x8尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 55.11
+  },
+  {
+    "code": 120350030060,
+    "product": "ｼﾅL/C(F4S) 35mm 3尺x6尺",
+    "shick": 35,
+    "width": 0,
+    "height": 0,
+    "weight": 36.16
+  },
+  {
+    "code": 120400040080,
+    "product": "ｼﾅL/C(F4S) 40mm 4尺x8尺",
+    "shick": 40,
+    "width": 0,
+    "height": 0,
+    "weight": 73.48
+  },
+  {
+    "code": 130,
+    "product": "しな曲合板(F4S)",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 130020060030,
+    "product": "しな【6尺曲】合板(F4S) 2mm 6尺x3尺",
+    "shick": 2,
+    "width": 0,
+    "height": 0,
+    "weight": 2.07
+  },
+  {
+    "code": 130030030060,
+    "product": "しな曲合板(F4S) 3mm 3尺x6尺【3尺】",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 130030060030,
+    "product": "しな曲合板(F4S) 3mm 6尺x3尺【6尺】",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.2
+  },
+  {
+    "code": 130040030060,
+    "product": "しな曲合板(F4S) 4mm 3尺x6尺【3尺】",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 130040040080,
+    "product": "しな曲合板(F4S) 4mm 4尺x8尺【4尺】",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 130040080040,
+    "product": "しな曲合板(F4S) 4mm 8尺x4尺【8尺】",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 130050030060,
+    "product": "しな曲合板(F4S) 5mm 3尺x6尺【3尺】",
+    "shick": 5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.17
+  },
+  {
+    "code": 130050060030,
+    "product": "しな曲合板(F4S) 5mm 6尺x3尺【6尺】",
+    "shick": 5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.17
+  },
+  {
+    "code": 140040030060,
+    "product": "しな防炎合板(F4S) 4mm 3尺x6尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 150090030060,
+    "product": "しな難燃合板 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 160030030060,
+    "product": "しな有孔 T2(F4S) 3mm 3尺x6尺 (5-25)",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 160040030060,
+    "product": "しな有孔 T2(F4S) 4mm 3尺x6尺 (5-25)",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 160040030070,
+    "product": "しな有孔 T2(F4S) 4mm 3尺x7尺 (5-25)",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.82
+  },
+  {
+    "code": 160040040080,
+    "product": "しな有孔 T2(F4S) 4mm 4尺x8尺 (5-25)",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 160055030060,
+    "product": "しな有孔 T2(F4S) 5.5mm 3尺x6尺 (5-25)",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.68
+  },
+  {
+    "code": 160055040080,
+    "product": "しな有孔 T2(F4S) 5.5mm 4尺x8尺 (5-25)",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 160090030060,
+    "product": "しな有孔 T2(F4S) 9mm 3尺x6尺 (5-25)",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 160120030060,
+    "product": "しな有孔 T2(F4S) 12mm 3尺x6尺 (5-25)",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 162,
+    "product": "しな有孔合板(F4S)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 170030030060,
+    "product": "しな 準両面(F4S) 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 170040030060,
+    "product": "しな 準両面(F4S) 4mm 3尺x6尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 170040040080,
+    "product": "しな 準両面(F4S) 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 170055030060,
+    "product": "しな 準両面(F4S) 5.5mm 3尺x6尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 6
+  },
+  {
+    "code": 170055040080,
+    "product": "しな 準両面(F4S) 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 170060030060,
+    "product": "しな 準両面(F4S) 6mm 3尺x6尺",
+    "shick": 6,
+    "width": 0,
+    "height": 0,
+    "weight": 6.2
+  },
+  {
+    "code": 170090010020,
+    "product": "しな 準両面(F4S) 9mm 1Mx2M",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 10.89
+  },
+  {
+    "code": 170090030060,
+    "product": "しな 準両面(F4S) 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 170090030070,
+    "product": "しな 準両面(F4S) 9mm 3尺x7尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 10.85
+  },
+  {
+    "code": 170090030080,
+    "product": "しな 準両面(F4S) 9mm 3尺x8尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 170090040080,
+    "product": "しな 準両面(F4S) 9mm 4尺x8尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 16.53
+  },
+  {
+    "code": 170120010020,
+    "product": "しな 準両面(F4S) 12mm 1Mx2M",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 14.52
+  },
+  {
+    "code": 170120030060,
+    "product": "しな 準両面(F4S) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.5
+  },
+  {
+    "code": 170120030070,
+    "product": "しな 準両面(F4S) 12mm 3尺x7尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 14.47
+  },
+  {
+    "code": 170120030080,
+    "product": "しな 準両面(F4S) 12mm 3尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.5
+  },
+  {
+    "code": 170120040080,
+    "product": "しな 準両面(F4S) 12mm 4尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 20.2
+  },
+  {
+    "code": 170150030060,
+    "product": "しな 準両面(F4S) 15mm 3尺x6尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 15.5
+  },
+  {
+    "code": 170150040080,
+    "product": "しな 準両面(F4S) 15mm 4尺x8尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 27.55
+  },
+  {
+    "code": 170180030060,
+    "product": "しな 準両面(F4S) 18mm 3尺x6尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 18.6
+  },
+  {
+    "code": 170180040080,
+    "product": "しな 準両面(F4S) 18mm 4尺x8尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 33.06
+  },
+  {
+    "code": 170210030060,
+    "product": "しな 準両面(F4S) 21mm 3尺x6尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 23
+  },
+  {
+    "code": 170210040080,
+    "product": "しな 準両面(F4S) 21mm 4尺x8尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 38.58
+  },
+  {
+    "code": 170240030060,
+    "product": "しな 準両面(F4S) 24mm 3尺x6尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 24.8
+  },
+  {
+    "code": 170240040080,
+    "product": "しな 準両面(F4S) 24mm 4尺x8尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 44.09
+  },
+  {
+    "code": 170300030060,
+    "product": "しな 準両面(F4S) 30mm 3尺x6尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 32
+  },
+  {
+    "code": 170300040080,
+    "product": "しな 準両面(F4S) 30mm 4尺x8尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 55.11
+  },
+  {
+    "code": 180,
+    "product": "しな 共芯合板(F4S)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 180060030060,
+    "product": "しな 共芯合板(F4S) 6mm 3尺x6尺",
+    "shick": 6,
+    "width": 0,
+    "height": 0,
+    "weight": 6.2
+  },
+  {
+    "code": 180090030060,
+    "product": "しな 共芯合板(F4S) 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 180180030060,
+    "product": "しな 共芯合板(F4S) 18mm 3尺x6尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 18.6
+  },
+  {
+    "code": 180210030060,
+    "product": "しな 共芯合板(F4S) 21mm 3尺x6尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 21.7
+  },
+  {
+    "code": 180240030060,
+    "product": "しな 共芯合板(F4S) 24mm 3尺x6尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 24.7
+  },
+  {
+    "code": 181,
+    "product": "しな共芯",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 182,
+    "product": "しな共芯 片面(F4S)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 2,
+    "product": "LVLほか",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 200,
+    "product": "Amaging Wood",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 201,
+    "product": "Amaging Wood【Light Brown】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 201120145600,
+    "product": "Amaging Wood【LB】12mm 145x600",
+    "shick": 12,
+    "width": 145,
+    "height": 600,
+    "weight": 0.63
+  },
+  {
+    "code": 202,
+    "product": "Amaging Wood【Red Brown】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 202120145600,
+    "product": "Amaging Wood【RB】12mm 145x600",
+    "shick": 12,
+    "width": 145,
+    "height": 600,
+    "weight": 0.63
+  },
+  {
+    "code": 203,
+    "product": "Amaging Wood【Grayish】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 203120145600,
+    "product": "Amaging Wood【Gray】12mm 145x600",
+    "shick": 12,
+    "width": 145,
+    "height": 600,
+    "weight": 0.63
+  },
+  {
+    "code": 204,
+    "product": "Amaging Wood【Skip White】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 204050145600,
+    "product": "Amaging Wood【SW】 5mm 145x600",
+    "shick": 5,
+    "width": 145,
+    "height": 600,
+    "weight": 0.26
+  },
+  {
+    "code": 204120145600,
+    "product": "Amaging Wood【SW】12mm 145x600",
+    "shick": 12,
+    "width": 145,
+    "height": 600,
+    "weight": 0.63
+  },
+  {
+    "code": 205,
+    "product": "Amaging Wood【Crack White】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 205120145600,
+    "product": "Amaging Wood【CW】12mm 145x600",
+    "shick": 12,
+    "width": 145,
+    "height": 600,
+    "weight": 0.63
+  },
+  {
+    "code": 206,
+    "product": "Amaging Wood【Mixed】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 206120145600,
+    "product": "Amaging Wood【Mixed】12mm 145x600",
+    "shick": 12,
+    "width": 145,
+    "height": 600,
+    "weight": 0.63
+  },
+  {
+    "code": 207,
+    "product": "Amaging Wood【C-change】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 209,
+    "product": "Amaging Wood【基材】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 209050145600,
+    "product": "Amaging Wood【基材】 5mm 145x600",
+    "shick": 5,
+    "width": 145,
+    "height": 600,
+    "weight": 0.26
+  },
+  {
+    "code": 209120145600,
+    "product": "Amaging Wood【基材】12mm 145x600",
+    "shick": 12,
+    "width": 145,
+    "height": 600,
+    "weight": 0.63
+  },
+  {
+    "code": 210,
+    "product": "足場板",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 210020,
+    "product": "足場板 28mm 240x2000",
+    "shick": 28,
+    "width": 240,
+    "height": 2000,
+    "weight": 10
+  },
+  {
+    "code": 210040,
+    "product": "足場板 28mm 240x4000",
+    "shick": 28,
+    "width": 240,
+    "height": 4000,
+    "weight": 20
+  },
+  {
+    "code": 210350,
+    "product": "国産材足場板 35㎜ 240ｘ4Ｍ",
+    "shick": 35,
+    "width": 240,
+    "height": 4000,
+    "weight": 25
+  },
+  {
+    "code": 220,
+    "product": "野地",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 220085030060,
+    "product": "野地 8.5mm 3尺x6尺",
+    "shick": 8.5,
+    "width": 0,
+    "height": 0,
+    "weight": 8.78
+  },
+  {
+    "code": 221085030060,
+    "product": "野地T2nonJAS 8.5mm 900x1800",
+    "shick": 8.5,
+    "width": 0,
+    "height": 0,
+    "weight": 8.78
+  },
+  {
+    "code": 230,
+    "product": "ｷﾝｸﾞｺｱ",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 240,
+    "product": "側板",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 241,
+    "product": "桐側板",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 241090030060,
+    "product": "桐側板 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 241130030060,
+    "product": "桐側板 13mm 3尺x6尺",
+    "shick": 13,
+    "width": "",
+    "height": "",
+    "weight": 13.43
+  },
+  {
+    "code": 241150030060,
+    "product": "桐側板 15mm 3尺x6尺",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 15.5
+  },
+  {
+    "code": 250,
+    "product": "芯材",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 25027004530,
+    "product": "LVL 2700ｘ45ｘ30（12本/束）",
+    "shick": 30,
+    "width": 45,
+    "height": 2700,
+    "weight": 2.13
+  },
+  {
+    "code": 252,
+    "product": "松芯",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 253,
+    "product": "ﾍﾟﾙ芯",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 270020,
+    "product": "根太ﾎﾞﾝﾄﾞ【ｾﾚｸﾃｨｰ】UR-20",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 270070,
+    "product": "根太ﾎﾞﾝﾄﾞ【ｾﾚｸﾃｨｰ】UR-70",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 280,
+    "product": "木毛板",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 280150030060,
+    "product": "木毛板 15mm 3尺x6尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 15.5
+  },
+  {
+    "code": 280200030060,
+    "product": "木毛板 20mm 3尺x6尺",
+    "shick": 20,
+    "width": "",
+    "height": "",
+    "weight": 20.67
+  },
+  {
+    "code": 280250030060,
+    "product": "木毛板 25mm 3尺x6尺",
+    "shick": 25,
+    "width": "",
+    "height": "",
+    "weight": 25.83
+  },
+  {
+    "code": 280300030060,
+    "product": "木毛板 30mm 3尺x6尺",
+    "shick": 30,
+    "width": "",
+    "height": "",
+    "weight": 31
+  },
+  {
+    "code": 290000,
+    "product": "AB【】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 290001,
+    "product": "Amaging MINI Table【】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 290001400400,
+    "product": "Amaging MINI Table【400X400X270】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 290002,
+    "product": "Amaging Cork Board【】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 290002300450,
+    "product": "Amaging Cork Board【300x450】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 290003,
+    "product": "Octa Table【】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 290003300,
+    "product": "Octa Table【φ300】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 290003450,
+    "product": "Octa Table【φ450】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 299,
+    "product": "Amaging BASE【副資材】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 300,
+    "product": "その他",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 301,
+    "product": "不本意に在庫したもの",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 310,
+    "product": "(ｶｯﾄ)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 310025,
+    "product": "(ｶｯﾄ) 2.5mm",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 310030,
+    "product": "(ｶｯﾄ) 3mm",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 310040,
+    "product": "(ｶｯﾄ) 4mm",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 310055,
+    "product": "(ｶｯﾄ) 5.5mm",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 310090,
+    "product": "(ｶｯﾄ) 9mm",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 310095,
+    "product": "(ｶｯﾄ) 9.5mm",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 310120,
+    "product": "(ｶｯﾄ) 12mm",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 310125,
+    "product": "(ｶｯﾄ) 12.5mm",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 310150,
+    "product": "(ｶｯﾄ) 15mm",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 310180,
+    "product": "(ｶｯﾄ) 18mm",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 310210,
+    "product": "(ｶｯﾄ) 21mm",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 310240,
+    "product": "(ｶｯﾄ) 24mm",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 310300,
+    "product": "(ｶｯﾄ) 30mm",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 311,
+    "product": "(有孔)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 312,
+    "product": "(再合板)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 313,
+    "product": "(その他)工賃",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 314,
+    "product": "工賃(ｻﾝﾀﾞｰ)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 321,
+    "product": "成型合板",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 330000,
+    "product": "ペンキ【白】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 380,
+    "product": "運賃 【",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 381,
+    "product": "諸経費",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 382,
+    "product": "梱包費",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 383,
+    "product": "協賛金",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 384,
+    "product": "値増し",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 385,
+    "product": "値引き",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 386,
+    "product": "口銭",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 387,
+    "product": "返品手数料",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 388,
+    "product": "日通お問合せ№",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 390,
+    "product": "Caohagan Quilts【】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 390001,
+    "product": "Caohagan Quilts【魚キルト】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 390002,
+    "product": "Caohagan Quilts【ｸｯｼｮﾝｶﾊﾞｰ】S",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 390003,
+    "product": "Caohagan Quilts【ｸｯｼｮﾝｶﾊﾞｰ】M",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 390060050,
+    "product": "Caohagan Quilts【６００ｘ５００】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 390130100,
+    "product": "Caohagan Quilts【１３００ｘ１０００】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 390210150,
+    "product": "Caohagan Quilts【２１００ｘ１５００】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 4,
+    "product": "ﾗﾜﾝ",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 400,
+    "product": "ﾗﾜﾝ合板 T2(F4S)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 400025040080,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 2.5mm 4尺x8尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 4.59
+  },
+  {
+    "code": 400030030070,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 3mm 3尺x7尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.62
+  },
+  {
+    "code": 400030030080,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 3mm 3尺x8尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 400040010020,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 4mm 1Mx2M",
+    "shick": 4,
+    "width": "",
+    "height": "",
+    "weight": 4.84
+  },
+  {
+    "code": 400040030070,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 4mm 3尺x7尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.82
+  },
+  {
+    "code": 400040030080,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 4mm 3尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 400040030090,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 4mm 3尺x9尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 6.2
+  },
+  {
+    "code": 400040030100,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 4mm 3尺x10尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 6.89
+  },
+  {
+    "code": 400040040060,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 4mm 4尺x6尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 400040040080,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 400040040090,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 4mm 4尺x9尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 8.27
+  },
+  {
+    "code": 400055030100,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 5.5mm 3尺x10尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 9.47
+  },
+  {
+    "code": 400055040080,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 400055040090,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 5.5mm 4尺x9尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 11.37
+  },
+  {
+    "code": 400055040400,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 5.5mm 4尺x4000mm",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 16.4
+  },
+  {
+    "code": 400090030060,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 400090040080,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 9mm 4尺x8尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 16.53
+  },
+  {
+    "code": 400120040080,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 12mm 4尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 22.04
+  },
+  {
+    "code": 400150040080,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 15mm 4尺x8尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 27.55
+  },
+  {
+    "code": 400180040080,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 18mm 4尺x8尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 33.06
+  },
+  {
+    "code": 400210040080,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 21mm 4尺x8尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 38.58
+  },
+  {
+    "code": 400240040080,
+    "product": "ﾗﾜﾝ合板 T2(F4S) 24mm 4尺x8尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 44.09
+  },
+  {
+    "code": 401,
+    "product": "ﾗﾜﾝ合板 T2 (B)",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": ""
+  },
+  {
+    "code": 402025030060,
+    "product": "ﾗﾜﾝ合板(Non JAS) 2.5mm 3尺x6尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 2.58
+  },
+  {
+    "code": 403025030060,
+    "product": "ﾗﾜﾝ合板 (B) 2.3mm 3尺x6尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 2.58
+  },
+  {
+    "code": 403030030060,
+    "product": "ﾗﾜﾝ合板 (B) 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 403040030060,
+    "product": "ﾗﾜﾝ合板 (B) 4mm 3尺x6尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 403055030060,
+    "product": "ﾗﾜﾝ合板 (B) 5.5mm 3尺x6尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.68
+  },
+  {
+    "code": 403090030060,
+    "product": "ﾗﾜﾝ合板 (B) 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 403120030060,
+    "product": "ﾗﾜﾝ合板 (B) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 403150030060,
+    "product": "ﾗﾜﾝ合板 (B) 15mm 3尺x6尺",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 15.5
+  },
+  {
+    "code": 403180030060,
+    "product": "ﾗﾜﾝ合板 (B) 18mm 3尺x6尺",
+    "shick": 18,
+    "width": "",
+    "height": "",
+    "weight": 18.6
+  },
+  {
+    "code": 403210030060,
+    "product": "ﾗﾜﾝ合板 (B) 21mm 3尺x6尺",
+    "shick": 21,
+    "width": "",
+    "height": "",
+    "weight": 21.7
+  },
+  {
+    "code": 403240030060,
+    "product": "ﾗﾜﾝ合板 (B) 24mm 3尺x6尺",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 24.8
+  },
+  {
+    "code": 410,
+    "product": "ﾗﾜﾝ合板 T1(F4S)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 410025030060,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 2.5mm 3尺x6尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 2.58
+  },
+  {
+    "code": 410025030070,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 2.5mm 3尺x7尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 3.01
+  },
+  {
+    "code": 410025030080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 2.5mm 3尺x8尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 3.44
+  },
+  {
+    "code": 410025040060,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 2.5mm 4尺x6尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 3.44
+  },
+  {
+    "code": 410025040080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 2.5mm 4尺x8尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 4.59
+  },
+  {
+    "code": 410030010020,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 3mm 1Mx2M",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.63
+  },
+  {
+    "code": 410030030060,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 410030030070,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 3mm 3尺x7尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.62
+  },
+  {
+    "code": 410030030080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 3mm 3尺x8尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 410030040060,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 3mm 4尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 410030040080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 3mm 4尺x8尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 410040010020,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 4mm 1Mx2M",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.84
+  },
+  {
+    "code": 410040030060,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 4mm 3尺x6尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 410040030070,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 4mm 3尺x7尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.82
+  },
+  {
+    "code": 410040030080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 4mm 3尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 410040040040,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 4mm 4尺x4000",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 11.93
+  },
+  {
+    "code": 410040040060,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 4mm 4尺x6尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 410040040080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 410040040090,
+    "product": 410040040090,
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 410055010020,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 5.5mm 1Mx2M",
+    "shick": 5.5,
+    "width": "",
+    "height": "",
+    "weight": 6.66
+  },
+  {
+    "code": 410055030060,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 5.5mm 3尺x6尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.68
+  },
+  {
+    "code": 410055030070,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 5.5mm 3尺x7尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 6.63
+  },
+  {
+    "code": 410055030080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 5.5mm 3尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 7.58
+  },
+  {
+    "code": 410055040060,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 5.5mm 4尺x6尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 7.58
+  },
+  {
+    "code": 410055040080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 410090010020,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 9mm 1Mx2M",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 10.89
+  },
+  {
+    "code": 410090030060,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 410090030070,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 9mm 3尺x7尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 10.85
+  },
+  {
+    "code": 410090030080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 9mm 3尺x8尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 410090030100,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 9mm 3尺x10尺",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 410090040060,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 9mm 4尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 410090040080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 9mm 4尺x8尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 16.53
+  },
+  {
+    "code": 410095030060,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 9.5mm 3尺x6尺",
+    "shick": 9.5,
+    "width": 0,
+    "height": 0,
+    "weight": 9.82
+  },
+  {
+    "code": 410120010020,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 12mm 1Mx2M",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 14.52
+  },
+  {
+    "code": 410120030060,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 410120030070,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 12mm 3尺x7尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 14.47
+  },
+  {
+    "code": 410120030080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 12mm 3尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 16.53
+  },
+  {
+    "code": 410120040080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 12mm 4尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 22.04
+  },
+  {
+    "code": 410125010020,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 12.5mm 1Mx2M",
+    "shick": 12.5,
+    "width": "",
+    "height": "",
+    "weight": 15.13
+  },
+  {
+    "code": 410150010020,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 15mm 1Mx2M",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 18.15
+  },
+  {
+    "code": 410150030060,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 15mm 3尺x6尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 15.5
+  },
+  {
+    "code": 410150030070,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 15mm 3尺x7尺",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 18.08
+  },
+  {
+    "code": 410150030080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 15mm 3尺x8尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 20.67
+  },
+  {
+    "code": 410150040080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 15mm 4尺x8尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 27.55
+  },
+  {
+    "code": 410180010020,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 18mm 1Mx2M",
+    "shick": 18,
+    "width": "",
+    "height": "",
+    "weight": 21.78
+  },
+  {
+    "code": 410180030060,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 18mm 3尺x6尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 18.6
+  },
+  {
+    "code": 410180030070,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 18mm 3尺x7尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 21.7
+  },
+  {
+    "code": 410180030080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 18mm 3尺x8尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 24.8
+  },
+  {
+    "code": 410180040060,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 18mm 4尺x6尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 24.8
+  },
+  {
+    "code": 410180040080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 18mm 4尺x8尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 33.06
+  },
+  {
+    "code": 410210010020,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 21mm 1Mx2M",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 25.41
+  },
+  {
+    "code": 410210030060,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 21mm 3尺x6尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 21.7
+  },
+  {
+    "code": 410210030070,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 21mm 3尺x7尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 25.32
+  },
+  {
+    "code": 410210030080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 21mm 3尺x8尺",
+    "shick": 21,
+    "width": "",
+    "height": "",
+    "weight": 28.93
+  },
+  {
+    "code": 410210040080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 21mm 4尺x8尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 38.58
+  },
+  {
+    "code": 410240010020,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 24mm 1Mx2M",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 29.04
+  },
+  {
+    "code": 410240030060,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 24mm 3尺x6尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 24.8
+  },
+  {
+    "code": 410240030070,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 24mm 3尺x7尺",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 28.93
+  },
+  {
+    "code": 410240030080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 24mm 3尺x8尺",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 33.06
+  },
+  {
+    "code": 410240040060,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 24mm 4尺x6尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 33.06
+  },
+  {
+    "code": 410240040080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 24mm 4尺x8尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 44.09
+  },
+  {
+    "code": 410300010020,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 30mm 1Mx2M",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 36.3
+  },
+  {
+    "code": 410300030060,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 30mm 3尺x6尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 31
+  },
+  {
+    "code": 410300030070,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 30mm 3尺x7尺",
+    "shick": 30,
+    "width": "",
+    "height": "",
+    "weight": 36.16
+  },
+  {
+    "code": 410300030080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 30mm 3尺x8尺",
+    "shick": 30,
+    "width": "",
+    "height": "",
+    "weight": 41.33
+  },
+  {
+    "code": 410300040060,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 30mm 4尺x6尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 41.33
+  },
+  {
+    "code": 410300040080,
+    "product": "ﾗﾜﾝ合板 T1(F4S) 30mm 4尺x8尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 55.11
+  },
+  {
+    "code": 415090030120,
+    "product": "ﾗﾜﾝ T1台板 9mm 940x3700",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 18.6
+  },
+  {
+    "code": 415090040120,
+    "product": "ﾗﾜﾝ T1台板 9mm 1230x3700",
+    "shick": 9,
+    "width": "",
+    "height": "",
+    "weight": 24.8
+  },
+  {
+    "code": 416150030060,
+    "product": "ﾗﾜﾝ合板 T1(F4S)非ﾎﾙ 15mm 3尺x6尺",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 15.5
+  },
+  {
+    "code": 417040030060,
+    "product": "MG 4mm 3尺x6尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 417055030060,
+    "product": "MG 5.5mm 3尺x6尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.68
+  },
+  {
+    "code": 417090030060,
+    "product": "MG 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 417095030060,
+    "product": "MG 9.5mm 3尺x6尺",
+    "shick": 9.5,
+    "width": "",
+    "height": "",
+    "weight": 9.82
+  },
+  {
+    "code": 417120030060,
+    "product": "MG 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 417125030060,
+    "product": "MG 12.5mm 3尺x6尺",
+    "shick": 12.5,
+    "width": "",
+    "height": "",
+    "weight": 12.92
+  },
+  {
+    "code": 418040040080,
+    "product": "ソフト＆ホワイト 4mm 4尺x8尺 T2G1",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.53
+  },
+  {
+    "code": 418055030060,
+    "product": "ソフト&ホワイト(ALL:F) 5.5mm 3x6",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 3.37
+  },
+  {
+    "code": 418055040080,
+    "product": "ソフト＆ホワイト 5.5mm 4尺x8尺 T2G1",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 6.23
+  },
+  {
+    "code": 418090040080,
+    "product": "ソフト＆ホワイト 9mm 4尺x8尺 T2G1",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 10.2
+  },
+  {
+    "code": 418120040080,
+    "product": "ソフト＆ホワイト 12mm 4尺x8尺 T2G1",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 13.6
+  },
+  {
+    "code": 420,
+    "product": "ﾗﾜﾝL/C (F4S)",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 420090030060,
+    "product": "ﾗﾜﾝL/C (F4S) 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 420120030060,
+    "product": "ﾗﾜﾝL/C (F4S) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 420120030080,
+    "product": "ﾗﾜﾝL/C (F4S) 12mm 3尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 15.99
+  },
+  {
+    "code": 420120040080,
+    "product": "ﾗﾜﾝL/C (F4S) 12mm 4尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 22.04
+  },
+  {
+    "code": 420150030060,
+    "product": "ﾗﾜﾝL/C (F4S) 15mm 3尺x6尺",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 15.5
+  },
+  {
+    "code": 420150030070,
+    "product": "ﾗﾜﾝL/C (F4S) 15mm 3尺x７尺",
+    "shick": 15,
+    "width": 915,
+    "height": 2130,
+    "weight": 17.5
+  },
+  {
+    "code": 420150030080,
+    "product": "ﾗﾜﾝL/C (F4S) 15mm 3尺x8尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 20
+  },
+  {
+    "code": 420150040080,
+    "product": "ﾗﾜﾝL/C (F4S) 15mm 4尺x8尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 27.55
+  },
+  {
+    "code": 420180030060,
+    "product": "ﾗﾜﾝL/C (F4S) 18mm 3尺x6尺",
+    "shick": 18,
+    "width": "",
+    "height": "",
+    "weight": 18.6
+  },
+  {
+    "code": 420180030070,
+    "product": "ﾗﾜﾝL/C (F4S) 18mm 3尺x７尺",
+    "shick": 18,
+    "width": 915,
+    "height": 2130,
+    "weight": 20.99
+  },
+  {
+    "code": 420180030080,
+    "product": "ﾗﾜﾝL/C (F4S) 18mm 3尺x8尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 24
+  },
+  {
+    "code": 420180040080,
+    "product": "ﾗﾜﾝL/C (F4S) 18mm 4尺x8尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 33.06
+  },
+  {
+    "code": 420210030060,
+    "product": "ﾗﾜﾝL/C (F4S) 21mm 3尺x6尺",
+    "shick": 21,
+    "width": "",
+    "height": "",
+    "weight": 21.7
+  },
+  {
+    "code": 420210030070,
+    "product": "ﾗﾜﾝL/C (F4S) 21mm 3尺x７尺",
+    "shick": 21,
+    "width": 915,
+    "height": 2130,
+    "weight": 24.49
+  },
+  {
+    "code": 420210030080,
+    "product": "ﾗﾜﾝL/C (F4S) 21mm 3尺x8尺",
+    "shick": 21,
+    "width": "",
+    "height": "",
+    "weight": 28.93
+  },
+  {
+    "code": 420210040080,
+    "product": "ﾗﾜﾝL/C (F4S) 21mm 4尺x8尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 38.58
+  },
+  {
+    "code": 420240030060,
+    "product": "ﾗﾜﾝL/C (F4S) 24mm 3尺x6尺",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 24.8
+  },
+  {
+    "code": 420240030070,
+    "product": "ﾗﾜﾝL/C (F4S) 24mm 3尺x７尺",
+    "shick": 24,
+    "width": 915,
+    "height": 2130,
+    "weight": 27.99
+  },
+  {
+    "code": 420240030080,
+    "product": "ﾗﾜﾝL/C (F4S) 24mm 3尺x8尺",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 33.06
+  },
+  {
+    "code": 420240040080,
+    "product": "ﾗﾜﾝL/C (F4S) 24mm 4尺x8尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 44.09
+  },
+  {
+    "code": 420300030060,
+    "product": "ﾗﾜﾝL/C (F4S) 30mm 3尺x6尺",
+    "shick": 30,
+    "width": "",
+    "height": "",
+    "weight": 31
+  },
+  {
+    "code": 420300030070,
+    "product": "ﾗﾜﾝL/C (F4S) 30mm 3尺x７尺",
+    "shick": 30,
+    "width": 915,
+    "height": 2130,
+    "weight": 34.99
+  },
+  {
+    "code": 420300030080,
+    "product": "ﾗﾜﾝL/C (F4S) 30mm 3尺x8尺",
+    "shick": 30,
+    "width": "",
+    "height": "",
+    "weight": 41.33
+  },
+  {
+    "code": 420300040080,
+    "product": "ﾗﾜﾝL/C (F4S) 30mm 4尺x8尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 55.11
+  },
+  {
+    "code": 423,
+    "product": "ﾗﾜﾝL/C ｽｷﾞ芯(F4S)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 423120030060,
+    "product": "ﾗﾜﾝL/C ｽｷﾞ芯(F4S) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 423120040080,
+    "product": "ﾗﾜﾝL/C ｽｷﾞ芯(F4S) 12mm 4尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 22.04
+  },
+  {
+    "code": 423150030060,
+    "product": "ﾗﾜﾝL/C ｽｷﾞ芯(F4S) 15mm 3尺x6尺",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 15.5
+  },
+  {
+    "code": 423150040080,
+    "product": "ﾗﾜﾝL/C ｽｷﾞ芯(F4S) 15mm 4尺x8尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 27.55
+  },
+  {
+    "code": 423180030060,
+    "product": "ﾗﾜﾝL/C ｽｷﾞ芯(F4S) 18mm 3尺x6尺",
+    "shick": 18,
+    "width": "",
+    "height": "",
+    "weight": 18.6
+  },
+  {
+    "code": 423180040080,
+    "product": "ﾗﾜﾝL/C ｽｷﾞ芯(F4S) 18mm 4尺x8尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 33.06
+  },
+  {
+    "code": 423210040080,
+    "product": "ﾗﾜﾝL/C ｽｷﾞ芯(F4S) 21mm 4尺x8尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 38.58
+  },
+  {
+    "code": 423240040080,
+    "product": "ﾗﾜﾝL/C ｽｷﾞ芯(F4S) 24mm 4尺x8尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 44.09
+  },
+  {
+    "code": 430030030060,
+    "product": "ﾗﾜﾝ【３尺曲】合板 (F4S) 3mm 3x6",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 430030060030,
+    "product": "ﾗﾜﾝ【６尺曲】合板 (F4S) 3mm 6x3",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.2
+  },
+  {
+    "code": 430040030060,
+    "product": "ﾗﾜﾝ【３尺曲】合板 (F4S) 4mm 3x6",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 430040040080,
+    "product": "ﾗﾜﾝ【４尺曲】 (F4S) 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 430040060030,
+    "product": "ﾗﾜﾝ【６尺曲】合板 (F4S) 4mm 6x3",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.2
+  },
+  {
+    "code": 430040080040,
+    "product": "ﾗﾜﾝ【８尺曲】合板 (F4S) 4mm 8x4",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.5
+  },
+  {
+    "code": 430050030060,
+    "product": "ﾗﾜﾝ【３尺曲】合板 (F4S) 5mm 3x6",
+    "shick": 5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.17
+  },
+  {
+    "code": 430050040080,
+    "product": "ﾗﾜﾝ【４尺曲】合板 (F4S) 5mm 4尺x8尺",
+    "shick": 5,
+    "width": 0,
+    "height": 0,
+    "weight": 9.18
+  },
+  {
+    "code": 430050060030,
+    "product": "ﾗﾜﾝ【６尺曲】合板 (F4S) 5mm 6x3",
+    "shick": 5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.5
+  },
+  {
+    "code": 430050080040,
+    "product": "ﾗﾜﾝ【８尺曲】 (F4S) 5mm 8尺x4尺",
+    "shick": 5,
+    "width": 0,
+    "height": 0,
+    "weight": 9.18
+  },
+  {
+    "code": 430090030060,
+    "product": "ﾗﾜﾝ【３尺曲】合板 (F4S) 9mm 3x6",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 430090060030,
+    "product": "ﾗﾜﾝ【６尺曲】合板 (F4S) 9mm 6x3",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.5
+  },
+  {
+    "code": 430090080040,
+    "product": "ﾗﾜﾝ【８尺曲】 (F4S) 9mm 8尺x4尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 16.53
+  },
+  {
+    "code": 430120030060,
+    "product": "ﾗﾜﾝ【３尺曲】合板 (F4S) 12mm 3x6",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.5
+  },
+  {
+    "code": 430120040080,
+    "product": "ﾗﾜﾝ【４尺曲】合板 (F4S) 12mm 4尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 22.04
+  },
+  {
+    "code": 430120060030,
+    "product": "ﾗﾜﾝ【６尺曲】合板 (F4S) 12mm 6x3",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.5
+  },
+  {
+    "code": 430120080040,
+    "product": "ﾗﾜﾝ【8尺曲】合板 (F4S) 12mm 8尺x4尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 22.04
+  },
+  {
+    "code": 431120030060,
+    "product": "ﾗﾜﾝC/P 【３尺曲】合板 12mm 900x1800",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 431120060030,
+    "product": "ﾗﾜﾝC/P 【６尺曲】合板 12mm 1800x900",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 433,
+    "product": "ｳﾚﾀﾝ曲合板",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 433120030060,
+    "product": "ｳﾚﾀﾝ合板【３尺曲】12mm 3x6",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 433120060030,
+    "product": "ｳﾚﾀﾝ合板【６尺曲】12mm 6x3",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 440025030060,
+    "product": "ﾗﾜﾝ防炎合板 2.5mm 3尺x6尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 2.58
+  },
+  {
+    "code": 440030030060,
+    "product": "ﾗﾜﾝ防炎合板 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 440040030060,
+    "product": "ﾗﾜﾝ防炎合板 4mm 3尺x6尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 440055030060,
+    "product": "ﾗﾜﾝ防炎合板 5.5mm 3尺x6尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.68
+  },
+  {
+    "code": 440055040080,
+    "product": "ﾗﾜﾝ防炎合板 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 440120030060,
+    "product": "ﾗﾜﾝ防炎合板 12mm 3尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 445055030060,
+    "product": "ﾗﾜﾝ難燃合板 5.5mm 3尺x6尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.68
+  },
+  {
+    "code": 445090030060,
+    "product": "ﾗﾜﾝ難燃合板 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 445120030060,
+    "product": "ﾗﾜﾝ難燃合板 12mm 3尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 450,
+    "product": "ﾗﾜﾝ輸入合板(F4S)",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 451030030060,
+    "product": "ﾗﾜﾝ普通合板 T1-G1 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 2.98
+  },
+  {
+    "code": 451040030060,
+    "product": "ﾗﾜﾝ普通合板 T1-G1 4mm 3尺x6尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 3.97
+  },
+  {
+    "code": 451055030060,
+    "product": "ﾗﾜﾝ普通合板 T1-G1 5.5mm 3尺x6尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.47
+  },
+  {
+    "code": 451090030060,
+    "product": "ﾗﾜﾝ普通合板 T1-G1 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 8.94
+  },
+  {
+    "code": 451090040080,
+    "product": "ﾗﾜﾝ普通合板 T1-G1 9mm 4尺x8尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 16.53
+  },
+  {
+    "code": 451095030060,
+    "product": "ﾗﾜﾝ普通合板 T1-G1 9.5mm 3尺x6尺",
+    "shick": 9.5,
+    "width": 0,
+    "height": 0,
+    "weight": 9.82
+  },
+  {
+    "code": 451120030060,
+    "product": "ﾗﾜﾝ普通合板 T1-G1 12mm 3尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 11.92
+  },
+  {
+    "code": 451120040080,
+    "product": "ﾗﾜﾝ普通合板 T1-G1 12mm 4尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 22.04
+  },
+  {
+    "code": 451125030060,
+    "product": "ﾗﾜﾝ普通合板 T1-G1 12.5mm 3尺x6尺",
+    "shick": 12.5,
+    "width": 0,
+    "height": 0,
+    "weight": 12.92
+  },
+  {
+    "code": 451150030060,
+    "product": "ﾗﾜﾝ普通合板 T1-G1 15mm 3尺x6尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 15.07
+  },
+  {
+    "code": 451180030060,
+    "product": "ﾗﾜﾝ普通合板 T1-G1 18mm 3尺x6尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 18.6
+  },
+  {
+    "code": 451210030060,
+    "product": "ﾗﾜﾝ普通合板 T1-G1 21mm 3尺x6尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 21.7
+  },
+  {
+    "code": 451240030060,
+    "product": "ﾗﾜﾝ普通合板 T1-G1 24mm 3尺x6尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 24.8
+  },
+  {
+    "code": 451300030060,
+    "product": "ﾗﾜﾝ普通合板 T1-G1 30mm 3尺x6尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 31
+  },
+  {
+    "code": 452025030060,
+    "product": "ﾗﾜﾝ普通合板 T1-G2 2.3mm 3.0尺x6.0尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 2.58
+  },
+  {
+    "code": 452030030060,
+    "product": "ﾗﾜﾝ輸入合板(F4S) T1G2 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 452040030060,
+    "product": "ﾗﾜﾝ輸入合板(F4S) T1G2 4mm 3尺x6尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 452055030060,
+    "product": "ﾗﾜﾝ輸入合板(F4S) T1G2 5.5mm 3尺x6尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.68
+  },
+  {
+    "code": 452090030060,
+    "product": "ﾗﾜﾝ普通合板(F4S) T1G2 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 8.94
+  },
+  {
+    "code": 452095030060,
+    "product": "ﾗﾜﾝ輸入合板(F4S) T1G2 9.5mm 3尺x6尺",
+    "shick": 9.5,
+    "width": "",
+    "height": "",
+    "weight": 9.82
+  },
+  {
+    "code": 452120030060,
+    "product": "ﾗﾜﾝ輸入合板(F4S) T1G2 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 452125030060,
+    "product": "ﾗﾜﾝ輸入合板(F4S) T1G2 12.5mm 3尺x6尺",
+    "shick": 12.5,
+    "width": "",
+    "height": "",
+    "weight": 12.92
+  },
+  {
+    "code": 452150030060,
+    "product": "ﾗﾜﾝ輸入合板(F4S) T1G2 15mm 3尺x6尺",
+    "shick": 15,
+    "width": 910,
+    "height": 1820,
+    "weight": 14.9
+  },
+  {
+    "code": 452180030060,
+    "product": "ﾗﾜﾝ輸入合板(F4S) T1G2 18mm 3尺x6尺",
+    "shick": 18,
+    "width": "",
+    "height": "",
+    "weight": 18.6
+  },
+  {
+    "code": 452210030060,
+    "product": "ﾗﾜﾝ(輸入)F4S T1G2 21mm 3尺x6尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 21.7
+  },
+  {
+    "code": 452300030060,
+    "product": "ﾗﾜﾝ合板(輸) T1G2 30mm 3尺x6尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 31
+  },
+  {
+    "code": 453025030060,
+    "product": "ﾗﾜﾝ普通合板 T2 2.5mm 3尺x6尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 2.58
+  },
+  {
+    "code": 453025030070,
+    "product": "ﾗﾜﾝ輸入合板(F4S) T2G1 2.5mm 3尺x7尺 KTC",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 3.01
+  },
+  {
+    "code": 453025040080,
+    "product": "ﾗﾜﾝ普通合板 T2-G1 2.5mm 4尺x8尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 4.59
+  },
+  {
+    "code": 453030030060,
+    "product": "ﾗﾜﾝ普通合板 T2-G1 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 2.98
+  },
+  {
+    "code": 453040030060,
+    "product": "ﾗﾜﾝ普通合板 T2-G1 4mm 3尺x6尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 453040040080,
+    "product": "ﾗﾜﾝ普通合板 T2-G1 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 453055030060,
+    "product": "ﾗﾜﾝ普通合板 T2-G1 5.5mm 3尺x6尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.68
+  },
+  {
+    "code": 453055040080,
+    "product": "ﾗﾜﾝ普通合板 T2-G1 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 453090030060,
+    "product": "ﾗﾜﾝ普通合板 T2-G1 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 453090040080,
+    "product": "ﾗﾜﾝ普通合板 T2-G1 9mm 4尺x8尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 16.53
+  },
+  {
+    "code": 453120030060,
+    "product": "ﾗﾜﾝ普通合板 T2-G1 12mm 3尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 453120040080,
+    "product": "ﾗﾜﾝ普通合板 T2-G1 12mm 4尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 22.04
+  },
+  {
+    "code": 453150030060,
+    "product": "ﾗﾜﾝ普通合板 T2-G1 15mm 3尺x6尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 15.5
+  },
+  {
+    "code": 453150040080,
+    "product": "ﾗﾜﾝ普通合板 T2-G1 15mm 4尺x8尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 27.55
+  },
+  {
+    "code": 453180040080,
+    "product": "ﾗﾜﾝ普通合板 T2-G1 18mm 4尺x8尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 33.06
+  },
+  {
+    "code": 453210030060,
+    "product": "ﾗﾜﾝ普通合板 T2-G1 21mm 3尺x6尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 21.7
+  },
+  {
+    "code": 453210040080,
+    "product": "ﾗﾜﾝ普通合板 T2-G1 21mm 4尺x8尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 38.58
+  },
+  {
+    "code": 453240040080,
+    "product": "ﾗﾜﾝ普通合板 T2-G1 24mm 4尺x8尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 44.09
+  },
+  {
+    "code": 453300030060,
+    "product": "ﾗﾜﾝ普通合板 T2-G1 30mm 3尺x6尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 31
+  },
+  {
+    "code": 453300040080,
+    "product": "ﾗﾜﾝ普通合板 T2-G1 30mm 4尺x8尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 55.11
+  },
+  {
+    "code": 454025030060,
+    "product": "ﾗﾜﾝ普通合板 T2-G2 2.5mm 3.0尺x6.0尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 2.6
+  },
+  {
+    "code": 454030030060,
+    "product": "ﾗﾜﾝ合板(輸) T2G2 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 2.98
+  },
+  {
+    "code": 454040030060,
+    "product": "ﾗﾜﾝ輸入合板(F4S) T2G2 4mm 3尺x6尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 454040040080,
+    "product": "ﾗﾜﾝ輸入合板(F4S) T2G2 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 454055030060,
+    "product": "ﾗﾜﾝ輸入合板(F4S) T2G2 5.5mm 3尺x6尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.68
+  },
+  {
+    "code": 454090030060,
+    "product": "ﾗﾜﾝ輸入合板(F4S) T2G2 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 454090040080,
+    "product": "ﾗﾜﾝ輸入合板(F4S) T2G2 9mm 4尺x8尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 16.53
+  },
+  {
+    "code": 454095030060,
+    "product": "ﾗﾜﾝ輸入合板(F4S) T2G2 9.5mm 3尺x6尺",
+    "shick": 9.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.2
+  },
+  {
+    "code": 454120030060,
+    "product": "ﾗﾜﾝ合板(輸) T2G2 12mm 3尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 11.92
+  },
+  {
+    "code": 454120040080,
+    "product": "ﾗﾜﾝ普通合板 T2-G2 12.0mm 4.0尺x8.0尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 22.04
+  },
+  {
+    "code": 454125030060,
+    "product": "ﾗﾜﾝ輸入合板(F4S) T2G2 12.5mm 3尺x6尺",
+    "shick": 12.5,
+    "width": 0,
+    "height": 0,
+    "weight": 12.92
+  },
+  {
+    "code": 454150040080,
+    "product": "ﾗﾜﾝ輸入合板(F4S) T2G2 15mm 4尺x8尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 27.55
+  },
+  {
+    "code": 454180030060,
+    "product": "ﾗﾜﾝ輸入合板(F4S) T2G2 18mm 3尺x6尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 18.6
+  },
+  {
+    "code": 454180040080,
+    "product": "ﾗﾜﾝ合板(輸) T2G2 18mm 4尺x8尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 33.06
+  },
+  {
+    "code": 454210030060,
+    "product": "ﾗﾜﾝ(輸入)F4S T1G2 21mm 3尺x6尺 ※T2G2",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 21.7
+  },
+  {
+    "code": 454210040080,
+    "product": "ﾗﾜﾝ輸入合板(F4S) T2G2 21mm 4尺x8尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 38.58
+  },
+  {
+    "code": 454240040080,
+    "product": "ﾗﾜﾝ輸入合板(F4S) T2G2 24mm 4尺x8尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 44.09
+  },
+  {
+    "code": 460,
+    "product": "ﾗﾜﾝ有孔合板T2 (F4S)",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 461,
+    "product": "ﾗﾜﾝ有孔合板T1 (F4S)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 461030030060,
+    "product": "ﾗﾜﾝ有孔合板T1(F4S) 3mm 3尺x6尺(5φ-25)",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 461040030060,
+    "product": "ﾗﾜﾝ有孔合板T1(F4S) 4mm 3尺x6尺(5φ-25)",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 461040030070,
+    "product": "ﾗﾜﾝ有孔合板T1(F4S) 4mm 3尺x7尺(5φ-25)",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.82
+  },
+  {
+    "code": 461040040080,
+    "product": "ﾗﾜﾝ有孔合板T1(F4S) 4mm 4尺x8尺(5φ-25)",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 461055030060,
+    "product": "ﾗﾜﾝ有孔合板T1(F4S) 5.5mm 3尺x6尺(5φ-25)",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.68
+  },
+  {
+    "code": 461055040080,
+    "product": "ﾗﾜﾝ有孔合板T1(F4S) 5.5mm 4尺x8尺(5φ-25)",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 461090030060,
+    "product": "ﾗﾜﾝ有孔合板T1(F4S) 9mm 3尺x6尺(5φ-25)",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 461120030060,
+    "product": "ﾗﾜﾝ有孔合板T1(F4S) 12mm 3尺x6尺(5φ-25)",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 462040030060,
+    "product": "ﾗﾜﾝ有孔合板 (F4S) 4mm 3尺x6尺(5φ-25)",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 462040030070,
+    "product": "ﾗﾜﾝ有孔合板 (F4S) 4mm 3尺x7尺(5φ-25)",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.82
+  },
+  {
+    "code": 462040040080,
+    "product": "ﾗﾜﾝ有孔合板 (F4S) 4mm 4尺x8尺(5φ-25)",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 462055030060,
+    "product": "ﾗﾜﾝ有孔合板 (F4S) 5.5mm 3尺x6尺(5φ-25)",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.68
+  },
+  {
+    "code": 462055040080,
+    "product": "ﾗﾜﾝ有孔合板 (F4S) 5.5mm 4尺x8尺(5φ-25)",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 462090030060,
+    "product": "ﾗﾜﾝ有孔合板 (F4S) 9mm 3尺x6尺(5φ-25)",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 462090040080,
+    "product": "ﾗﾜﾝ有孔合板 (F4S) 9mm 4尺x8尺(5φ-25)",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 16.53
+  },
+  {
+    "code": 462120030060,
+    "product": "ﾗﾜﾝ有孔合板 (F4S) 12mm 3尺x6尺(5φ-25)",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 471075030080,
+    "product": "ﾗﾜﾝ構造用【特1】(F4S) 7.5mm 3尺x8尺",
+    "shick": 7.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.33
+  },
+  {
+    "code": 471090030080,
+    "product": "ﾗﾜﾝ構造用【特1】(F4S) 9mm 3尺x8尺",
+    "shick": 9,
+    "width": "",
+    "height": "",
+    "weight": ""
+  },
+  {
+    "code": 471090030090,
+    "product": "ﾗﾜﾝ構造用【特1】(F4S) 9mm 3尺x9尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 13.95
+  },
+  {
+    "code": 471090030100,
+    "product": "ﾗﾜﾝ構造用【特1】(F4S) 9mm 3尺x10尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 15.5
+  },
+  {
+    "code": 471120030080,
+    "product": "ﾗﾜﾝ構造用【特1】(F4S) 12mm 3尺x8尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 16.53
+  },
+  {
+    "code": 471120030090,
+    "product": "ﾗﾜﾝ構造用【特1】(F4S) 12mm 3尺x9尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 18.6
+  },
+  {
+    "code": 471120030100,
+    "product": "ﾗﾜﾝ構造用【特1】(F4S) 12mm 3尺x10尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 20.67
+  },
+  {
+    "code": 472,
+    "product": "ﾗﾜﾝ構造用【特2】(F4S)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 472090030060,
+    "product": "ﾗﾜﾝ構造用【特2】(F4S) 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 472090030080,
+    "product": "ﾗﾜﾝ構造用【特2】(F4S) 9mm 3尺x8尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 472090030090,
+    "product": "ﾗﾜﾝ構造用【特2】(F4S) 9mm 3尺x9尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 13.95
+  },
+  {
+    "code": 472090030100,
+    "product": "ﾗﾜﾝ構造用【特2】(F4S) 9mm 3尺x10尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 15.5
+  },
+  {
+    "code": 472120010020,
+    "product": "ﾗﾜﾝ構造用【特2】(F4S) 12mm 1Mx2M",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 14.52
+  },
+  {
+    "code": 472120030060,
+    "product": "ﾗﾜﾝ構造用【特2】(F4S) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 472150030060,
+    "product": "ﾗﾜﾝ構造用【特2】(F4S) 15mm 3尺x6尺",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 15.5
+  },
+  {
+    "code": 472240030060,
+    "product": "ﾗﾜﾝ構造用【特2】(F4S) 24mm 3尺x6尺",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 24.8
+  },
+  {
+    "code": 472280030060,
+    "product": "ﾗﾜﾝ構造用【特2】(F4S) 28mm 3尺x6尺",
+    "shick": 28,
+    "width": "",
+    "height": "",
+    "weight": 28.93
+  },
+  {
+    "code": 473,
+    "product": "ﾗﾜﾝ構造用【Ⅰ1】(F4S)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 473075030060,
+    "product": "ﾗﾜﾝ構造用【Ⅰ1】(F4S) 7.5mm 3尺x6尺",
+    "shick": 7.5,
+    "width": 0,
+    "height": 0,
+    "weight": 7.75
+  },
+  {
+    "code": 473090010020,
+    "product": "ﾗﾜﾝ構造用【Ⅰ1】(F4S) 9mm 1Mx2M",
+    "shick": 9,
+    "width": "",
+    "height": "",
+    "weight": 10.89
+  },
+  {
+    "code": 473090030060,
+    "product": "ﾗﾜﾝ構造用【Ⅰ1】(F4S) 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 473120010020,
+    "product": "ﾗﾜﾝ構造用【Ⅰ1】(F4S) 12mm 1Mx2M",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 14.52
+  },
+  {
+    "code": 473120030060,
+    "product": "ﾗﾜﾝ構造用【Ⅰ1】(F4S) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 473150030060,
+    "product": "ﾗﾜﾝ構造用【Ⅰ1】(F4S) 15mm 3尺x6尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 15.5
+  },
+  {
+    "code": 473180030060,
+    "product": "ﾗﾜﾝ構造用【Ⅰ1】(F4S) 18mm 3尺x6尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 18.6
+  },
+  {
+    "code": 473210030060,
+    "product": "ﾗﾜﾝ構造用【Ⅰ1】(F4S) 21mm 3尺x6尺",
+    "shick": 21,
+    "width": "",
+    "height": "",
+    "weight": 21.7
+  },
+  {
+    "code": 473240030060,
+    "product": "ﾗﾜﾝ構造用【Ⅰ1】(F4S) 24mm 3尺x6尺",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 24.8
+  },
+  {
+    "code": 473280030060,
+    "product": "ﾗﾜﾝ構造用【Ⅰ1】(F4S) 28mm 3尺x6尺",
+    "shick": 28,
+    "width": "",
+    "height": "",
+    "weight": 28.93
+  },
+  {
+    "code": 473300030060,
+    "product": "ﾗﾜﾝ構造用【Ⅰ1】(F4S) 30mm 3尺x6尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 31
+  },
+  {
+    "code": 474090030060,
+    "product": "ﾗﾜﾝ構造用【Ⅰ2】(F4S) 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 474120030060,
+    "product": "ﾗﾜﾝ構造用【Ⅰ2】(F4S) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 474240030060,
+    "product": "ﾗﾜﾝ構造用【Ⅰ2】(F4S) 24mm 3尺x6尺",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 24.8
+  },
+  {
+    "code": 475120030060,
+    "product": "ﾗﾜﾝ構造用 (B) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 476120030060,
+    "product": "ﾗﾜﾝ構造用【Ⅰ1】(F4S)裏版 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 477120030060,
+    "product": "ﾎﾟﾌﾟﾗ構造用【特2】(F4S) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 480,
+    "product": "ﾗﾜﾝ構造用【】(F4S)<実>",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 480120030060,
+    "product": "ﾗﾜﾝ構造用【】(F4S)<実> 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 480280030060,
+    "product": "ﾗﾜﾝ構造用【】(F4S)<実> 28mm 3尺x6尺",
+    "shick": 28,
+    "width": "",
+    "height": "",
+    "weight": 28.93
+  },
+  {
+    "code": 481150030060,
+    "product": "ﾗﾜﾝ構造用【特1】(F4S)<実> 15mm 3尺x6尺",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 15.5
+  },
+  {
+    "code": 483240030060,
+    "product": "ﾗﾜﾝ構造用【Ⅰ1】(F4S) <実>24mm 3尺x6尺",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 24.8
+  },
+  {
+    "code": 490120030060,
+    "product": "ﾗﾜﾝ防虫合板T1(F4S) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 491,
+    "product": "ﾗﾜﾝ防虫合板",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 494120030060,
+    "product": "ﾗﾜﾝ構造用(防腐防蟻) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 498,
+    "product": "ﾗﾜﾝ格外",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 498025030060,
+    "product": "ﾗﾜﾝNONJAS 2.5mm 3尺x6尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 2.58
+  },
+  {
+    "code": 498030030060,
+    "product": "ﾗﾜﾝ格外 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 2.63
+  },
+  {
+    "code": 498040030060,
+    "product": "ﾗﾜﾝ格外 4mm 3尺x6尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 498055030060,
+    "product": "ﾗﾜﾝ格外 5.5mm 3尺x6尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.68
+  },
+  {
+    "code": 498085030060,
+    "product": "ﾗﾜﾝ格外 8.5mm 3尺x6尺",
+    "shick": 8.5,
+    "width": 0,
+    "height": 0,
+    "weight": 8.78
+  },
+  {
+    "code": 498090030060,
+    "product": "ﾗﾜﾝ格外 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 498120030060,
+    "product": "ﾗﾜﾝ格外 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 498150030060,
+    "product": "ﾗﾜﾝ格外 15mm 3尺x6尺",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 15.5
+  },
+  {
+    "code": 498180030060,
+    "product": "ﾗﾜﾝ格外 18mm 3尺x6尺",
+    "shick": 18,
+    "width": "",
+    "height": "",
+    "weight": 18.6
+  },
+  {
+    "code": 498210030060,
+    "product": "ﾗﾜﾝ格外 21mm 3尺x6尺",
+    "shick": 21,
+    "width": "",
+    "height": "",
+    "weight": 21.7
+  },
+  {
+    "code": 498240030060,
+    "product": "ﾗﾜﾝ格外 24mm 3尺x6尺",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 24.8
+  },
+  {
+    "code": 499,
+    "product": "ラワン防腐処理合板",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 499090030060,
+    "product": "ラワン防腐防蟻合板 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 499120030060,
+    "product": "ラワン防腐処理合板 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 5,
+    "product": "ポリ",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 510,
+    "product": "養生ﾃｰﾌﾟ",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 511,
+    "product": "養生ﾃｰﾌﾟ 40mm(床用)青",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 512,
+    "product": "養生ﾃｰﾌﾟ 50mm(壁用)緑",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 515,
+    "product": "ブルーシート",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 515900100,
+    "product": "ﾌﾞﾙｰｼｰﾄﾛｰﾙ 900mmｘ100m",
+    "shick": 0,
+    "width": 900,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 520,
+    "product": "ﾌﾟﾗﾍﾞﾆﾔ",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 520023030060,
+    "product": "ﾌﾟﾗﾍﾞﾆﾔ 2.3mm 3尺x6尺",
+    "shick": 2.3,
+    "width": 0,
+    "height": 0,
+    "weight": 2.38
+  },
+  {
+    "code": 520025030060,
+    "product": "ﾌﾟﾗﾍﾞﾆﾔ 2.5mm 3尺x6尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 2.58
+  },
+  {
+    "code": 520030030060,
+    "product": "ﾌﾟﾗﾍﾞﾆﾔ 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 551,
+    "product": "ﾎﾟﾘ (5114)(F4S)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 551025030060,
+    "product": "ﾎﾟﾘ 【5114】(F4S) 2.5mm 3尺x6尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 2.58
+  },
+  {
+    "code": 551025030070,
+    "product": "ﾎﾟﾘ 【5114】(F4S) 2.5mm 3尺x7尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 3.01
+  },
+  {
+    "code": 551040040080,
+    "product": "ﾎﾟﾘ 【5114】(F4S) 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 551150030060,
+    "product": "ﾎﾟﾘL/C 【5114】(F4S) 15mm 3尺x6尺",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 15.5
+  },
+  {
+    "code": 551150040080,
+    "product": "ﾎﾟﾘL/C 【5114】(F4S) 15mm 4尺x8尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 27.55
+  },
+  {
+    "code": 551180030060,
+    "product": "ﾎﾟﾘL/C 【5114】(F4S) 18mm 3尺x6尺",
+    "shick": 18,
+    "width": "",
+    "height": "",
+    "weight": 18.6
+  },
+  {
+    "code": 551180040080,
+    "product": "ﾎﾟﾘL/C 【5114】(F4S) 18mm 4尺x8尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 33.06
+  },
+  {
+    "code": 551210030060,
+    "product": "ﾎﾟﾘL/C 【5114】(F4S) 21mm 3尺x6尺",
+    "shick": 21,
+    "width": "",
+    "height": "",
+    "weight": 21.7
+  },
+  {
+    "code": 551210040080,
+    "product": "ﾎﾟﾘL/C 【5114】(F4S) 21mm 4尺x8尺",
+    "shick": 21,
+    "width": "",
+    "height": "",
+    "weight": 38.58
+  },
+  {
+    "code": 551240030060,
+    "product": "ﾎﾟﾘL/C 【5114】(F4S) 24mm 3尺x6尺",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 24.8
+  },
+  {
+    "code": 551240040080,
+    "product": "ﾎﾟﾘL/C 【5114】(F4S) 24mm 4尺x8尺",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 44.09
+  },
+  {
+    "code": 551300030060,
+    "product": "ﾎﾟﾘL/C 【5114】(F4S) 30mm 3尺x6尺",
+    "shick": 30,
+    "width": "",
+    "height": "",
+    "weight": 31
+  },
+  {
+    "code": 551300040080,
+    "product": "ﾎﾟﾘL/C 【5114】(F4S) 30mm 4尺x8尺",
+    "shick": 30,
+    "width": "",
+    "height": "",
+    "weight": 55.11
+  },
+  {
+    "code": 554,
+    "product": "ﾎﾟﾘ (5414)(F4S)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 554025030060,
+    "product": "ﾎﾟﾘ 【5414】(F4S) 2.5mm 3尺x6尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 2.58
+  },
+  {
+    "code": 554025030070,
+    "product": "ﾎﾟﾘ 【5414】(F4S) 2.5mm 3尺x7尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 3.01
+  },
+  {
+    "code": 554040040080,
+    "product": "ﾎﾟﾘ 【5414】(F4S) 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 554120030060,
+    "product": "ﾎﾟﾘL/C (5414)F4S 12mm 3尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.39
+  },
+  {
+    "code": 554150030060,
+    "product": "ﾎﾟﾘL/C 【5414】(F4S) 15mm 3尺x6尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 15.5
+  },
+  {
+    "code": 554150040080,
+    "product": "ﾎﾟﾘL/C 【5414】(F4S) 15mm 4尺x8尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 27.55
+  },
+  {
+    "code": 554180030060,
+    "product": "ﾎﾟﾘL/C 【5414】(F4S) 18mm 3尺x6尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 18.6
+  },
+  {
+    "code": 554180040080,
+    "product": "ﾎﾟﾘL/C 【5414】(F4S) 18mm 4尺x8尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 33.06
+  },
+  {
+    "code": 554210030060,
+    "product": "ﾎﾟﾘL/C 【5414】(F4S) 21mm 3尺x6尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 21.7
+  },
+  {
+    "code": 554210040080,
+    "product": "ﾎﾟﾘL/C 【5414】(F4S) 21mm 4尺x8尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 38.58
+  },
+  {
+    "code": 554240030060,
+    "product": "ﾎﾟﾘL/C 【5414】(F4S) 24mm 3尺x6尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 24.8
+  },
+  {
+    "code": 554240040080,
+    "product": "ﾎﾟﾘL/C 【5414】(F4S) 24mm 4尺x8尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 44.09
+  },
+  {
+    "code": 554300030060,
+    "product": "ﾎﾟﾘL/C 【5414】(F4S) 30mm 3尺x6尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 31
+  },
+  {
+    "code": 554300040080,
+    "product": "ﾎﾟﾘL/C 【5414】(F4S) 30mm 4尺x8尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 55.11
+  },
+  {
+    "code": 558,
+    "product": "ﾎﾟﾘ (5813)(F4S)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 558025030060,
+    "product": "ﾎﾟﾘ 【5813】(F4S) 2.5mm 3尺x6尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 2.58
+  },
+  {
+    "code": 558025030070,
+    "product": "ﾎﾟﾘ 【5813】(F4S) 2.5mm 3尺x7尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 3.01
+  },
+  {
+    "code": 558040040080,
+    "product": "ﾎﾟﾘ 【5813】(F4S) 4mm 4尺x8",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 580,
+    "product": "ｶﾈﾗｲﾄﾌｫｰﾑ",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 6,
+    "product": "突板",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 610,
+    "product": "ﾀﾓ【柾目】",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 610027030060,
+    "product": "ﾀﾓ【柾目】 2.7mm 3尺x6尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 2.79
+  },
+  {
+    "code": 610027030070,
+    "product": "ﾀﾓ【柾目】 2.7mm 3尺x7尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 3.25
+  },
+  {
+    "code": 610030030060,
+    "product": "ﾀﾓ【柾目】 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 610030030070,
+    "product": "ﾀﾓ【柾目】 3mm 3尺x7尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.62
+  },
+  {
+    "code": 610040030060,
+    "product": "ﾀﾓ【柾目】 4mm 3尺x6尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 610040030080,
+    "product": "ﾀﾓ【柾目】 4mm 3尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 610040040080,
+    "product": "ﾀﾓ【柾目】 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 610055040080,
+    "product": "ﾀﾓ【柾目】 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 611,
+    "product": "ﾅﾗ【柾目】",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 611027030060,
+    "product": "ﾅﾗ【柾目】 2.7mm 3尺x6尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 2.79
+  },
+  {
+    "code": 611027030070,
+    "product": "ﾅﾗ【柾目】 2.7mm 3尺x7尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 3.25
+  },
+  {
+    "code": 611030030060,
+    "product": "ﾅﾗ【柾目】 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 611030030070,
+    "product": "ﾅﾗ【柾目】 3mm 3尺x7尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.62
+  },
+  {
+    "code": 611040030080,
+    "product": "ﾅﾗ【柾目】 4mm 3尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 611040040080,
+    "product": "ﾅﾗ【柾目】 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 611055040080,
+    "product": "ﾅﾗ【柾目】 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 612,
+    "product": "栓【柾目】",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 612027030060,
+    "product": "栓【柾目】 2.7mm 3尺x6尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 2.79
+  },
+  {
+    "code": 612027030070,
+    "product": "栓【柾目】 2.7mm 3尺x7尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 3.25
+  },
+  {
+    "code": 612030030060,
+    "product": "栓【柾目】 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 612030030070,
+    "product": "栓【柾目】 3mm 3尺x7尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.62
+  },
+  {
+    "code": 612040030080,
+    "product": "栓【柾目】 4mm 3尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 612040040080,
+    "product": "栓【柾目】 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 612055040080,
+    "product": "栓【柾目】 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 613,
+    "product": "米松【柾目】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 613027030060,
+    "product": "米松【柾目】 2.7mm 3尺x6尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 2.79
+  },
+  {
+    "code": 613027030070,
+    "product": "米松【柾目】 2.7mm 3尺x7尺",
+    "shick": 2.7,
+    "width": "",
+    "height": "",
+    "weight": 3.25
+  },
+  {
+    "code": 613030030060,
+    "product": "米松【柾目】 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 613030030070,
+    "product": "米松【柾目】 3mm 3尺x7尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.62
+  },
+  {
+    "code": 613040030080,
+    "product": "米松【柾目】 4mm 3尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 613040040080,
+    "product": "米松【柾目】 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 613055040080,
+    "product": "米松【柾目】 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 614,
+    "product": "ﾁｰｸ【柾目】",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 614027030060,
+    "product": "ﾁｰｸ【柾目】 2.7mm 3尺x6尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 2.79
+  },
+  {
+    "code": 614027030070,
+    "product": "ﾁｰｸ【柾目】 2.7mm 3尺x7尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 3.25
+  },
+  {
+    "code": 614030030060,
+    "product": "ﾁｰｸ【柾目】 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 614030030070,
+    "product": "ﾁｰｸ【柾目】 3mm 3尺x7尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.62
+  },
+  {
+    "code": 614040030080,
+    "product": "ﾁｰｸ【柾目】 4mm 3尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 614040040080,
+    "product": "ﾁｰｸ【柾目】 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 614055040080,
+    "product": "ﾁｰｸ【柾目】 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 615,
+    "product": "ｶﾊﾞ【柾目】",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 615027030060,
+    "product": "ｶﾊﾞ【柾目】 2.7mm 3尺x6尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 2.79
+  },
+  {
+    "code": 615027030070,
+    "product": "ｶﾊﾞ【柾目】 2.7mm 3尺x7尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 3.25
+  },
+  {
+    "code": 615030030060,
+    "product": "ｶﾊﾞ【柾目】 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 615030030070,
+    "product": "ｶﾊﾞ【柾目】 3mm 3尺x7尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.62
+  },
+  {
+    "code": 615040030080,
+    "product": "ｶﾊﾞ【柾目】 4mm 3尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 615040040080,
+    "product": "ｶﾊﾞ【柾目】 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 615055040080,
+    "product": "ｶﾊﾞ【柾目】 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 616,
+    "product": "ｽﾌﾟﾙｽ【柾目】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 616027030060,
+    "product": "ｽﾌﾟﾙｽ【柾目】 2.7mm 3尺x6尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 2.79
+  },
+  {
+    "code": 616027030070,
+    "product": "ｽﾌﾟﾙｽ【柾目】 2.7mm 3尺x7尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 3.25
+  },
+  {
+    "code": 616030030060,
+    "product": "ｽﾌﾟﾙｽ【柾目】 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 616030030070,
+    "product": "ｽﾌﾟﾙｽ【柾目】 3mm 3尺x7尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.62
+  },
+  {
+    "code": 616040030080,
+    "product": "ｽﾌﾟﾙｽ【柾目】 4mm 3尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 616040040080,
+    "product": "ｽﾌﾟﾙｽ【柾目】 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 616055040080,
+    "product": "ｽﾌﾟﾙｽ【柾目】 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 617,
+    "product": "ﾌﾞﾅ【柾目】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 617027030060,
+    "product": "ﾌﾞﾅ【柾目】 2.7mm 3尺x6尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 2.79
+  },
+  {
+    "code": 617027030070,
+    "product": "ﾌﾞﾅ【柾目】 2.7mm 3尺x7尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 3.25
+  },
+  {
+    "code": 617030030060,
+    "product": "ﾌﾞﾅ【柾目】 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 617030030070,
+    "product": "ﾌﾞﾅ【柾目】 3mm 3尺x7尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.62
+  },
+  {
+    "code": 617040030080,
+    "product": "ﾌﾞﾅ【柾目】 4mm 3尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 617040040080,
+    "product": "ﾌﾞﾅ【柾目】 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 617055040080,
+    "product": "ﾌﾞﾅ【柾目】 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 618,
+    "product": "白ﾗﾜﾝ【柾目】",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 618027030060,
+    "product": "白ﾗﾜﾝ【柾目】 2.7mm 3尺x6尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 2.79
+  },
+  {
+    "code": 618027030070,
+    "product": "白ﾗﾜﾝ【柾目】 2.7mm 3尺x7尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 3.25
+  },
+  {
+    "code": 618030030060,
+    "product": "白ﾗﾜﾝ【柾目】 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 618030030070,
+    "product": "白ﾗﾜﾝ【柾目】 3mm 3尺x7尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.62
+  },
+  {
+    "code": 618040030080,
+    "product": "白ﾗﾜﾝ【柾目】 4mm 3尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 618040040080,
+    "product": "白ﾗﾜﾝ【柾目】 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 618055040080,
+    "product": "白ﾗﾜﾝ【柾目】 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 619,
+    "product": "ﾋﾉｷ【柾目】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 620,
+    "product": "ﾀﾓ【板目】",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 620027030060,
+    "product": "ﾀﾓ【板目】 2.7mm 3尺x6尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 2.79
+  },
+  {
+    "code": 620027030070,
+    "product": "ﾀﾓ【板目】 2.7mm 3尺x7尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 3.25
+  },
+  {
+    "code": 620030030060,
+    "product": "ﾀﾓ【板目】 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 620030030070,
+    "product": "ﾀﾓ【板目】 3mm 3尺x7尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.62
+  },
+  {
+    "code": 620040030080,
+    "product": "ﾀﾓ【板目】 4mm 3尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 620040040080,
+    "product": "ﾀﾓ【板目】 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 620055040080,
+    "product": "ﾀﾓ【板目】 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 621,
+    "product": "ﾅﾗ【板目】",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 621027030060,
+    "product": "ﾅﾗ【板目】 2.7mm 3尺x6尺",
+    "shick": 2.7,
+    "width": "",
+    "height": "",
+    "weight": 2.79
+  },
+  {
+    "code": 621027030070,
+    "product": "ﾅﾗ【板目】 2.7mm 3尺x7尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 3.25
+  },
+  {
+    "code": 621030030060,
+    "product": "ﾅﾗ【板目】 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 621030030070,
+    "product": "ﾅﾗ【板目】 3mm 3尺x7尺",
+    "shick": 3,
+    "width": "",
+    "height": "",
+    "weight": 3.62
+  },
+  {
+    "code": 621040030080,
+    "product": "ﾅﾗ【板目】 4mm 3尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 621040040080,
+    "product": "ﾅﾗ【板目】 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 621055040080,
+    "product": "ﾅﾗ【板目】 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 622,
+    "product": "栓【板目】",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 622027030060,
+    "product": "栓【板目】 2.7mm 3尺x6尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 2.79
+  },
+  {
+    "code": 622027030070,
+    "product": "栓【板目】 2.7mm 3尺x7尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 3.25
+  },
+  {
+    "code": 622030030060,
+    "product": "栓【板目】 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 622030030070,
+    "product": "栓【板目】 3mm 3尺x7尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.62
+  },
+  {
+    "code": 622040030080,
+    "product": "栓【板目】 4mm 3尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 622040040080,
+    "product": "栓【板目】 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 622055040080,
+    "product": "栓【板目】 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 623,
+    "product": "米松【板目】",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 623027030060,
+    "product": "米松【板目】 2.7mm 3尺x6尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 2.79
+  },
+  {
+    "code": 623027030070,
+    "product": "米松【板目】 2.7mm 3尺x7尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 3.25
+  },
+  {
+    "code": 623030030060,
+    "product": "米松【板目】 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 623030030070,
+    "product": "米松【板目】 3mm 3尺x7尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.62
+  },
+  {
+    "code": 623040030080,
+    "product": "米松【板目】 4mm 3尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 623040040080,
+    "product": "米松【板目】 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 623055040080,
+    "product": "米松【板目】 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 624,
+    "product": "ﾁｰｸ【板目】",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 624027030060,
+    "product": "ﾁｰｸ【板目】 2.7mm 3尺x6尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 2.79
+  },
+  {
+    "code": 624027030070,
+    "product": "ﾁｰｸ【板目】 2.7mm 3尺x7尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 3.25
+  },
+  {
+    "code": 624030030060,
+    "product": "ﾁｰｸ【板目】 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 624030030070,
+    "product": "ﾁｰｸ【板目】 3mm 3尺x7尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.62
+  },
+  {
+    "code": 624040030080,
+    "product": "ﾁｰｸ【板目】 4mm 3尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 624040040080,
+    "product": "ﾁｰｸ【板目】 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 624055040080,
+    "product": "ﾁｰｸ【板目】 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 625,
+    "product": "ｶﾊﾞ【板目】",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 625027030060,
+    "product": "ｶﾊﾞ【板目】 2.7mm 3尺x6尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 2.79
+  },
+  {
+    "code": 625027030070,
+    "product": "ｶﾊﾞ【板目】 2.7mm 3尺x7尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 3.25
+  },
+  {
+    "code": 625030030060,
+    "product": "ｶﾊﾞ【板目】 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 625030030070,
+    "product": "ｶﾊﾞ【板目】 3mm 3尺x7尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.62
+  },
+  {
+    "code": 625040030080,
+    "product": "ｶﾊﾞ【板目】 4mm 3尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 625040040080,
+    "product": "ｶﾊﾞ【板目】 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 625055040080,
+    "product": "ｶﾊﾞ【板目】 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 627,
+    "product": "ﾌﾞﾅ【板目】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 627027030060,
+    "product": "ﾌﾞﾅ【板目】 2.7mm 3尺x6尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 2.79
+  },
+  {
+    "code": 627027030070,
+    "product": "ﾌﾞﾅ【板目】 2.7mm 3尺x7尺",
+    "shick": 2.7,
+    "width": 0,
+    "height": 0,
+    "weight": 3.25
+  },
+  {
+    "code": 627030030060,
+    "product": "ﾌﾞﾅ【板目】 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 627030030070,
+    "product": "ﾌﾞﾅ【板目】 3mm 3尺x7尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.62
+  },
+  {
+    "code": 627040030080,
+    "product": "ﾌﾞﾅ【板目】 4mm 3尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 627040040080,
+    "product": "ﾌﾞﾅ【板目】 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 627055040080,
+    "product": "ﾌﾞﾅ【板目】 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 629,
+    "product": "ﾋﾉｷ【板目】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 630,
+    "product": "杉【柾目】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 631,
+    "product": "ﾊｰﾄﾞﾒｲﾌﾟﾙ【柾目】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 632,
+    "product": "ﾌﾞﾛｯｸ(集成柄)【】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 640,
+    "product": "杉【板目】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 641,
+    "product": "ﾊｰﾄﾞﾒｲﾌﾟﾙ【板目】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 650001,
+    "product": "テ－プカッタ－角型（青）",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 650002,
+    "product": "ﾃｰﾌﾟ用 ﾄﾘﾐﾝｸﾞ･ｶｯﾀｰ(極) 替刃式",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 651,
+    "product": "ﾊｰﾄﾞﾒｲﾌﾟﾙ【杢目】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 66,
+    "product": "ﾃｰﾌﾟ",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 664,
+    "product": "ﾃｰﾌﾟ【ｽﾌﾟﾙｽ】",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 6654210,
+    "product": "ﾃｰﾌﾟ【5414】21mm x 50M",
+    "shick": 0,
+    "width": 21,
+    "height": 50000,
+    "weight": 0
+  },
+  {
+    "code": 6654220,
+    "product": "ﾃｰﾌﾟ【5414】22mm x 50M",
+    "shick": 0,
+    "width": 22,
+    "height": 50000,
+    "weight": 0
+  },
+  {
+    "code": 6654250,
+    "product": "ﾃｰﾌﾟ【5414】25mm x 50M",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 680,
+    "product": "ｴﾝﾎﾞｽﾄ",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 681,
+    "product": "北海ｴﾝﾎﾞｽﾄ【松】 角",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 682,
+    "product": "北海ｴﾝﾎﾞｽﾄ【松】 平",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 691,
+    "product": "【ナラ】ﾌﾛｰﾘﾝｸﾞ",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 693,
+    "product": "【カバ】ﾌﾛｰﾘﾝｸﾞ",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 7,
+    "product": "ｺﾝﾊﾟﾈ (その他)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 700240030060,
+    "product": "ｺﾝﾊﾟﾈ(下地) 24mm 3x6",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 702,
+    "product": "ｺﾝﾊﾟﾈ (格外)",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 702120020060,
+    "product": "ｺﾝﾊﾟﾈ (格外) 12mm 2尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 8.27
+  },
+  {
+    "code": 702120030060,
+    "product": "ｺﾝﾊﾟﾈ (格外) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 703,
+    "product": "ｺﾝﾊﾟﾈ (B)",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 703120010020,
+    "product": "ｺﾝﾊﾟﾈ (B) 12mm 1Mx2M",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 14.52
+  },
+  {
+    "code": 703120020060,
+    "product": "ｺﾝﾊﾟﾈ (B) 12mm 2尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 8.27
+  },
+  {
+    "code": 703120030060,
+    "product": "ｺﾝﾊﾟﾈ (B) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 703150030060,
+    "product": "ｺﾝﾊﾟﾈ (B) 15mm 3尺x6尺",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 15.5
+  },
+  {
+    "code": 710120030060,
+    "product": "CPⅠ 12mm 900x1800",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 720,
+    "product": "CPⅡ (ｺﾝﾊﾟﾈNON JAS)",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 720120030060,
+    "product": "CPⅡ(ｺﾝﾊﾟﾈNON JAS)12mm 900x1800",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 730,
+    "product": "ｺﾝﾊﾟﾈﾛﾝｸﾞ NON JAS",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 730120030060,
+    "product": "ｺﾝﾊﾟﾈﾛﾝｸﾞ NON JAS 12mm 910x1820",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 730240030060,
+    "product": "ｺﾝﾊﾟﾈﾛﾝｸﾞ NON JAS 24mm 3尺x6尺",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 24.8
+  },
+  {
+    "code": 731120030060,
+    "product": "CP中 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 740,
+    "product": "ｳﾚﾀﾝ (その他)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 741,
+    "product": "ｳﾚﾀﾝ【黄色】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 741120010020,
+    "product": "ｳﾚﾀﾝ【黄色】 12mm 1Mx2M",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 14.52
+  },
+  {
+    "code": 741120020060,
+    "product": "ｳﾚﾀﾝ【黄色】 12mm 2尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 8.27
+  },
+  {
+    "code": 741120030060,
+    "product": "ｳﾚﾀﾝ【黄色】 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 741120040080,
+    "product": "ｳﾚﾀﾝ【黄色】 12mm 4尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 22.04
+  },
+  {
+    "code": 741150030060,
+    "product": "ｳﾚﾀﾝ【黄色】 15mm 3尺x6尺",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 15.5
+  },
+  {
+    "code": 742,
+    "product": "ﾊﾟﾈｺｰﾄ【グレー】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 742120030060,
+    "product": "ﾊﾟﾈｺｰﾄ【グレー】 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 742120040080,
+    "product": "ﾊﾟﾈｺｰﾄ【グレー】 12mm 4尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 22.04
+  },
+  {
+    "code": 743120030060,
+    "product": "ｺﾝﾊﾟﾈ【ライトグレー】 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 744120030060,
+    "product": "ｳﾚﾀﾝ【ﾄﾞﾙﾌｨﾝ】 12㎜ 3尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 750,
+    "product": "ﾉﾝｽﾘｯﾌﾟ塗装合板",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 750120030060,
+    "product": "ﾉﾝｽﾘｯﾌﾟ塗装合板 12mm 900x1800",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 750240030060,
+    "product": "ﾉﾝｽﾘｯﾌﾟ塗装合板 24mm 900x1800",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 24.8
+  },
+  {
+    "code": 760110030060,
+    "product": "ﾍﾞﾄﾅﾑ合板(Non Jas) 11mm 3尺x6尺",
+    "shick": 11,
+    "width": "",
+    "height": "",
+    "weight": 11.37
+  },
+  {
+    "code": 760120030060,
+    "product": "ﾍﾞﾄﾅﾑ 12mm 3尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 761120030060,
+    "product": "ﾕｰｶﾘ 12mm 900x1800",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 770,
+    "product": "ｺﾝﾊﾟﾈ【JAS】",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 770120020060,
+    "product": "ｺﾝﾊﾟﾈ【JAS】 12mm 2尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 8.27
+  },
+  {
+    "code": 770120030060,
+    "product": "ｺﾝﾊﾟﾈ【JAS】 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 770120040080,
+    "product": "ｺﾝﾊﾟﾈ【JAS】 12mm 4尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 22.04
+  },
+  {
+    "code": 770180030060,
+    "product": "ｺﾝﾊﾟﾈ【JAS】 18mm 3尺x6尺",
+    "shick": 18,
+    "width": "",
+    "height": "",
+    "weight": 18.6
+  },
+  {
+    "code": 770210030060,
+    "product": "ｺﾝﾊﾟﾈ【JAS】 21mm 3尺x6尺",
+    "shick": 21,
+    "width": "",
+    "height": "",
+    "weight": 21.7
+  },
+  {
+    "code": 770240030060,
+    "product": "ｺﾝﾊﾟﾈ【JAS】 24mm 3尺x6尺",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 24.8
+  },
+  {
+    "code": 770280030060,
+    "product": "ｺﾝﾊﾟﾈ【JAS】 28mm 3尺x6尺",
+    "shick": 28,
+    "width": "",
+    "height": "",
+    "weight": 28.93
+  },
+  {
+    "code": 770300030060,
+    "product": "ｺﾝﾊﾟﾈ【JAS】 30mm 3尺x6尺",
+    "shick": 30,
+    "width": "",
+    "height": "",
+    "weight": 31
+  },
+  {
+    "code": 771120010020,
+    "product": "ｺﾝﾊﾟﾈ【JAS】《F3S》 12mm 1000x2000",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 14.52
+  },
+  {
+    "code": 771120030060,
+    "product": "ｺﾝﾊﾟﾈ【JAS】《F3S》 12mm 900x1800",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 771150030060,
+    "product": "ｺﾝﾊﾟﾈ【JAS】《F3S》 15mm 900x1800",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 15.5
+  },
+  {
+    "code": 790,
+    "product": "NFボード",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 790040020060,
+    "product": "NFボード 4mm 600x1800",
+    "shick": 4,
+    "width": 600,
+    "height": 1800,
+    "weight": 3.5
+  },
+  {
+    "code": 790040030045,
+    "product": "NFボード 4mm 910x1365",
+    "shick": 4,
+    "width": 910,
+    "height": 1365,
+    "weight": 4.5
+  },
+  {
+    "code": 790040030060,
+    "product": "NFボード 4mm 910x1820",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 790055020060,
+    "product": "NFボード 5.5mm 600x1800",
+    "shick": 5.5,
+    "width": 600,
+    "height": 1800,
+    "weight": 4.81
+  },
+  {
+    "code": 790120020060,
+    "product": "NFボード 12mm 600x1800",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 10
+  },
+  {
+    "code": 791030142142,
+    "product": "SLボード 単層(黒) 3mm 1420x1420",
+    "shick": 3,
+    "width": 1420,
+    "height": 1420,
+    "weight": 7
+  },
+  {
+    "code": 792055,
+    "product": "NF6.5-Hｼﾞｮｲﾅ-",
+    "shick": 6.5,
+    "width": 315,
+    "height": 2420,
+    "weight": 0.17
+  },
+  {
+    "code": 792120,
+    "product": "NF13.5-H-ｼﾞｮｲﾅｰ",
+    "shick": 13.5,
+    "width": 0,
+    "height": 2420,
+    "weight": 0.27
+  },
+  {
+    "code": 801000,
+    "product": "ｴｲｺｰﾄ ﾊﾟﾗﾌｨﾝ液(ﾀｯﾁｱｯﾌﾟ3点ｾｯﾄ)",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 802,
+    "product": "ﾊﾟﾗﾌｨﾝ原液",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 820,
+    "product": "P.B.構造【MDI】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 820090030080,
+    "product": "P.B.構造【MDI】 9mm 908x2440",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 820090030090,
+    "product": "P.B.構造【MDI】 9mm 908x2730",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 13.95
+  },
+  {
+    "code": 820090030100,
+    "product": "P.B.構造【MDI】 9mm 908x3030",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 15.5
+  },
+  {
+    "code": 830,
+    "product": "構造用OSB",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 830095030060,
+    "product": "構造用OSB 9.5mm 3尺x6尺",
+    "shick": 9.5,
+    "width": "",
+    "height": "",
+    "weight": 9.82
+  },
+  {
+    "code": 830120030060,
+    "product": "構造用OSB 12mm 3尺x6尺 TOLKO",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 831,
+    "product": "構造用OSB<実>",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 831240030060,
+    "product": "構造用OSB<実> 24mm 3尺x6尺",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 24.8
+  },
+  {
+    "code": 831280030060,
+    "product": "構造用OSB<実> 28mm 924x1820",
+    "shick": 28,
+    "width": "",
+    "height": "",
+    "weight": 28.93
+  },
+  {
+    "code": 832060030060,
+    "product": "構造用OSB【両面ｻﾝﾀﾞｰ】 6mm 3尺x6尺",
+    "shick": 6,
+    "width": 0,
+    "height": 0,
+    "weight": 6.2
+  },
+  {
+    "code": 833120030060,
+    "product": "構造用OSB【片面ｻﾝﾀﾞｰ】 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": ""
+  },
+  {
+    "code": 834,
+    "product": "ｲﾝﾃﾘｱOSB",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 834080030060,
+    "product": "ｲﾝﾃﾘｱOSB 8mm 3尺x6尺",
+    "shick": 8,
+    "width": 0,
+    "height": 0,
+    "weight": 8
+  },
+  {
+    "code": 834080030090,
+    "product": "ｲﾝﾃﾘｱOSB 8mm 3尺x9尺",
+    "shick": 8,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 840,
+    "product": "ﾊﾞﾘｱﾚｽﾌﾛｱｰ",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 850,
+    "product": "ﾗｲｵﾝﾎﾞｰﾄﾞ",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 850150030070,
+    "product": "ﾗｲｵﾝﾎﾞｰﾄﾞ 15mm 3尺x7尺",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 18.08
+  },
+  {
+    "code": 850200030070,
+    "product": "ﾗｲｵﾝﾎﾞｰﾄﾞ 20mm 3尺x7尺",
+    "shick": 20,
+    "width": "",
+    "height": "",
+    "weight": 24.11
+  },
+  {
+    "code": 850250030070,
+    "product": "ﾗｲｵﾝﾎﾞｰﾄﾞ 25mm 3尺x7尺",
+    "shick": 25,
+    "width": "",
+    "height": "",
+    "weight": 30.14
+  },
+  {
+    "code": 860,
+    "product": "P.B.【建築】(F4S)",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 860120030060,
+    "product": "P.B.【建築】(F4S) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 14.71
+  },
+  {
+    "code": 860150030060,
+    "product": "P.B.【建築】(F4S) 15mm 3尺x6尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 18.4
+  },
+  {
+    "code": 860200015060,
+    "product": "P.B.【建築】(F4S) 20mm 1.5尺x6尺",
+    "shick": 20,
+    "width": "",
+    "height": "",
+    "weight": 10.33
+  },
+  {
+    "code": 860200020060,
+    "product": "P.B.【建築】(F4S) 20mm 2尺x6尺",
+    "shick": 20,
+    "width": 0,
+    "height": 0,
+    "weight": 16.35
+  },
+  {
+    "code": 860200030060,
+    "product": "P.B.【建築】(F4S) 20mm 3尺x6尺",
+    "shick": 20,
+    "width": 0,
+    "height": 0,
+    "weight": 24.53
+  },
+  {
+    "code": 860250010060,
+    "product": "P.B.【建築】(F4S) 25mm 1尺x6尺",
+    "shick": 25,
+    "width": 0,
+    "height": 0,
+    "weight": 10.22
+  },
+  {
+    "code": 860250020060,
+    "product": "P.B.【建築】(F4S) 25mm 2尺x6尺",
+    "shick": 25,
+    "width": 0,
+    "height": 0,
+    "weight": 20.44
+  },
+  {
+    "code": 860250030060,
+    "product": "P.B.【建築】(F4S) 25mm 3尺x6尺",
+    "shick": 25,
+    "width": 0,
+    "height": 0,
+    "weight": 30.66
+  },
+  {
+    "code": 860300030060,
+    "product": "P.B.【建築】(F4S) 30mm 3尺x6尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 36.79
+  },
+  {
+    "code": 865120030060,
+    "product": "P.B.ﾊﾟﾗﾌｨﾝ【建築】(F4S) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 865150030060,
+    "product": "P.B.ﾊﾟﾗﾌｨﾝ【建築】(F4S) 15mm 3尺x6尺",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 15.5
+  },
+  {
+    "code": 865200020060,
+    "product": "P.B.ﾊﾟﾗﾌｨﾝ【建築】(F4S) 20mm 2尺x6尺",
+    "shick": 20,
+    "width": "",
+    "height": "",
+    "weight": 13.78
+  },
+  {
+    "code": 865200030060,
+    "product": "P.B.ﾊﾟﾗﾌｨﾝ【建築】(F4S) 20mm 3尺x6尺",
+    "shick": 20,
+    "width": "",
+    "height": "",
+    "weight": 20.67
+  },
+  {
+    "code": 865250020060,
+    "product": "P.B.ﾊﾟﾗﾌｨﾝ【建築】(F4S) 25mm 2尺x6尺",
+    "shick": 25,
+    "width": "",
+    "height": "",
+    "weight": 17.22
+  },
+  {
+    "code": 865250030060,
+    "product": "P.B.ﾊﾟﾗﾌｨﾝ【建築】(F4S) 25mm 3尺x6尺",
+    "shick": 25,
+    "width": "",
+    "height": "",
+    "weight": 25.83
+  },
+  {
+    "code": 865300030060,
+    "product": "P.B.ﾊﾟﾗﾌｨﾝ【建築】(F4S) 30mm 3尺x6尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 36.79
+  },
+  {
+    "code": 866,
+    "product": "P.B.ﾊﾟﾗﾌｨﾝ【建築】《F3S》",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 870,
+    "product": "P.B.【木工】《F4S》",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 870090030060,
+    "product": "P.B.【木工】《F4S》 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 10.62
+  },
+  {
+    "code": 870090040060,
+    "product": "P.B.【木工】《F4S》 9mm 4尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 14.15
+  },
+  {
+    "code": 870100030060,
+    "product": "P.B.【木工】《F4S》 10mm 3尺x6尺",
+    "shick": 10,
+    "width": 0,
+    "height": 0,
+    "weight": 11.8
+  },
+  {
+    "code": 870120030060,
+    "product": "P.B.【木工】《F4S》 12mm 3尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 14.16
+  },
+  {
+    "code": 870120030070,
+    "product": "P.B.【木工】《F4S》 12mm 3尺x7尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 16.51
+  },
+  {
+    "code": 870120030080,
+    "product": "P.B.【木工】《F4S》 12mm 3尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 18.87
+  },
+  {
+    "code": 870120040060,
+    "product": "P.B.【木工】《F4S》 12mm 4尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 18.87
+  },
+  {
+    "code": 870120040080,
+    "product": "P.B.【木工】《F4S》 12mm 4尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 25.17
+  },
+  {
+    "code": 870150030060,
+    "product": "P.B.【木工】《F4S》 15mm 3尺x6尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 17.7
+  },
+  {
+    "code": 870150030070,
+    "product": "P.B.【木工】《F4S》 15mm 3尺x7尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 20.64
+  },
+  {
+    "code": 870150040060,
+    "product": "P.B.【木工】《F4S》 15mm 4尺x6尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 23.59
+  },
+  {
+    "code": 870150040080,
+    "product": "P.B.【木工】《F4S》 15mm 4尺x8尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 31.46
+  },
+  {
+    "code": 870150500060,
+    "product": "P.B.【木工】《F4S》 15mm 50mmx6尺",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 870150600060,
+    "product": "P.B.【木工】《F4S》 15mm 60mmx6尺",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 870180030060,
+    "product": "P.B.【木工】《F4S》 18mm 3尺x6尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 21.23
+  },
+  {
+    "code": 870180040060,
+    "product": "P.B.【木工】《F4S》 18mm 4尺x6尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 28.31
+  },
+  {
+    "code": 870180040080,
+    "product": "P.B.【木工】《F4S》 18mm 4尺x8尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 37.75
+  },
+  {
+    "code": 870200030060,
+    "product": "P.B.【木工】《F4S》 20mm 3尺x6尺",
+    "shick": 20,
+    "width": 0,
+    "height": 0,
+    "weight": 23.59
+  },
+  {
+    "code": 870200030070,
+    "product": "P.B.【木工】《F4S》 20mm 3尺x7尺",
+    "shick": 20,
+    "width": 0,
+    "height": 0,
+    "weight": 27.53
+  },
+  {
+    "code": 870200040060,
+    "product": "P.B.【木工】《F4S》 20mm 4尺x6尺",
+    "shick": 20,
+    "width": 0,
+    "height": 0,
+    "weight": 31.46
+  },
+  {
+    "code": 870200040080,
+    "product": "P.B.【木工】《F4S》 20mm 4尺x8尺",
+    "shick": 20,
+    "width": 0,
+    "height": 0,
+    "weight": 41.95
+  },
+  {
+    "code": 870250030060,
+    "product": "P.B.【木工】《F4S》 25mm 3尺x6尺",
+    "shick": 25,
+    "width": 0,
+    "height": 0,
+    "weight": 29.49
+  },
+  {
+    "code": 870250040060,
+    "product": "P.B.【木工】《F4S》 25mm 4尺x6尺",
+    "shick": 25,
+    "width": 0,
+    "height": 0,
+    "weight": 39.33
+  },
+  {
+    "code": 870250040080,
+    "product": "P.B.【木工】《F4S》 25mm 4尺x8尺",
+    "shick": 25,
+    "width": 0,
+    "height": 0,
+    "weight": 52.44
+  },
+  {
+    "code": 870300030060,
+    "product": "P.B.【木工】《F4S》 30mm 3尺x6尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 35.39
+  },
+  {
+    "code": 870300500060,
+    "product": "P.B.【木工】《F4S》 30mm 50mmx6尺",
+    "shick": 30,
+    "width": "",
+    "height": "",
+    "weight": 1.65
+  },
+  {
+    "code": 880,
+    "product": "MDF",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 880025030060,
+    "product": "MDF 2.5mm 3尺x6尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 2.58
+  },
+  {
+    "code": 880025040080,
+    "product": "MDF 2.5mm 4尺x8尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 4.59
+  },
+  {
+    "code": 880030030060,
+    "product": "MDF 3mm 3尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 3.1
+  },
+  {
+    "code": 880030040060,
+    "product": "MDF 3mm 4尺x6尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 880030040080,
+    "product": "MDF 3mm 4尺x8尺",
+    "shick": 3,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 880040030060,
+    "product": "MDF 4mm 3尺x6尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 4.13
+  },
+  {
+    "code": 880040040060,
+    "product": "MDF 4mm 4尺x6尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 5.51
+  },
+  {
+    "code": 880040040080,
+    "product": "MDF 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 880055030060,
+    "product": "MDF 5.5mm 3尺x6尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 5.68
+  },
+  {
+    "code": 880055040060,
+    "product": "MDF 5.5mm 4尺x6尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 7.58
+  },
+  {
+    "code": 880055040080,
+    "product": "MDF 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 880090030060,
+    "product": "MDF 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 9.3
+  },
+  {
+    "code": 880090040060,
+    "product": "MDF 9mm 4尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 880090040080,
+    "product": "MDF 9mm 4尺x8尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 16.53
+  },
+  {
+    "code": 880120030060,
+    "product": "MDF 12mm 3尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.4
+  },
+  {
+    "code": 880120040060,
+    "product": "MDF 12mm 4尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 16.53
+  },
+  {
+    "code": 880120040080,
+    "product": "MDF 12mm 4尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 22.04
+  },
+  {
+    "code": 880150030060,
+    "product": "MDF 15mm 3尺x6尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 15.5
+  },
+  {
+    "code": 880150040060,
+    "product": "MDF 15mm 4尺x6尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 20.67
+  },
+  {
+    "code": 880150040080,
+    "product": "MDF 15mm 4尺x8尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 27.55
+  },
+  {
+    "code": 880180030060,
+    "product": "MDF 18mm 3尺x6尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 18.6
+  },
+  {
+    "code": 880180040060,
+    "product": "MDF 18mm 4尺x6尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 24.8
+  },
+  {
+    "code": 880180040080,
+    "product": "MDF 18mm 4尺x8尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 33.06
+  },
+  {
+    "code": 880210030060,
+    "product": "MDF 21mm 3尺x6尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 21.7
+  },
+  {
+    "code": 880210040060,
+    "product": "MDF 21mm 4尺x6尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 28.93
+  },
+  {
+    "code": 880210040080,
+    "product": "MDF 21mm 4尺x8尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 38.58
+  },
+  {
+    "code": 880240030060,
+    "product": "MDF 24mm 3尺x6尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 24.8
+  },
+  {
+    "code": 880240040060,
+    "product": "MDF 24mm 4尺x6尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 33.06
+  },
+  {
+    "code": 880240040080,
+    "product": "MDF 24mm 4尺x8尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 44.09
+  },
+  {
+    "code": 880300030060,
+    "product": "MDF 30mm 3尺x6尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 31
+  },
+  {
+    "code": 880300040060,
+    "product": "MDF 30mm 4尺x6尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 41.33
+  },
+  {
+    "code": 880300040080,
+    "product": "MDF 30mm 4尺x8尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 55.11
+  },
+  {
+    "code": 890,
+    "product": "ｽﾀｰｳｯﾄﾞ構造用",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 890090030090,
+    "product": "ｽﾀｰｳｯﾄﾞ構造用 9mm 3尺x9尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 13.95
+  },
+  {
+    "code": 890090030100,
+    "product": "ｽﾀｰｳｯﾄﾞ構造用 9mm 3尺x10尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 15.5
+  },
+  {
+    "code": 891,
+    "product": "ｽﾀｰｳｯﾄﾞ構造用(ﾈｲﾙﾏｰｸ)",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 891090010100,
+    "product": "ｽﾀｰｳｯﾄﾞ構造用(ﾈｲﾙﾏｰｸ) 9mm 998x3030",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 16.77
+  },
+  {
+    "code": 891090030090,
+    "product": "ｽﾀｰｳｯﾄﾞ構造用(ﾈｲﾙﾏｰｸ) 9mm 3尺x9尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 13.95
+  },
+  {
+    "code": 891090030100,
+    "product": "ｽﾀｰｳｯﾄﾞ構造用(ﾈｲﾙﾏｰｸ) 9mm 3尺x10尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 13.17
+  },
+  {
+    "code": 9,
+    "product": "針葉樹",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 900,
+    "product": "針葉樹構造用【特2】",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 900060030060,
+    "product": "針葉樹合板 6mm 3尺x6尺【スギ】",
+    "shick": 6,
+    "width": 0,
+    "height": 0,
+    "weight": 5.27
+  },
+  {
+    "code": 900090030060,
+    "product": "針葉樹構造用【特2】 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 7.9
+  },
+  {
+    "code": 900090030080,
+    "product": "針葉樹構造用【特2】 9mm 3尺x8尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 10.53
+  },
+  {
+    "code": 900090030090,
+    "product": "針葉樹構造用【特2】 9mm 3尺x9尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 11.85
+  },
+  {
+    "code": 900090030100,
+    "product": "針葉樹構造用【特2】 9mm 3尺x10尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 13.17
+  },
+  {
+    "code": 900090040080,
+    "product": "針葉樹構造用【特2】 9mm 4尺x8尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 14.05
+  },
+  {
+    "code": 900120030060,
+    "product": "針葉樹構造用【特2】 12mm 3尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 10.53
+  },
+  {
+    "code": 900120030080,
+    "product": "針葉樹構造用【特2】 12mm 3尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 14.05
+  },
+  {
+    "code": 900120030100,
+    "product": "針葉樹構造用【特2】 12mm 3尺x10尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 17.56
+  },
+  {
+    "code": 900120040080,
+    "product": "針葉樹構造用【特2】 12mm 4尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 18.73
+  },
+  {
+    "code": 900150010020,
+    "product": "針葉樹構造用【特2】 15mm 1Mx2M",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 15.42
+  },
+  {
+    "code": 900150030060,
+    "product": "針葉樹構造用【特2】 15mm 3尺x6尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 13.17
+  },
+  {
+    "code": 900150040080,
+    "product": "針葉樹構造用【特2】 15mm 4尺x8尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 23.41
+  },
+  {
+    "code": 900180030060,
+    "product": "針葉樹構造用【特2】 18mm 3尺x6尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 15.8
+  },
+  {
+    "code": 900180040080,
+    "product": "針葉樹構造用【特2】 18mm 4尺x8尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 28.09
+  },
+  {
+    "code": 900210030060,
+    "product": "針葉樹構造用【特2】 21mm 3尺x6尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 18.43
+  },
+  {
+    "code": 900210040080,
+    "product": "針葉樹合板【特2】 21mm4尺x8尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 32.77
+  },
+  {
+    "code": 900240010020,
+    "product": "針葉樹構造用【特2】 24mm 1Mx2M",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 24.67
+  },
+  {
+    "code": 900240030060,
+    "product": "針葉樹構造用【特2】 24mm 3尺x6尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 21.07
+  },
+  {
+    "code": 900240040080,
+    "product": "針葉樹構造用【特2】 24mm 4尺x8尺",
+    "shick": 24,
+    "width": 1230,
+    "height": 2430,
+    "weight": 37.46
+  },
+  {
+    "code": 900280040080,
+    "product": "針葉樹合板【特2】 28mm4尺x8尺",
+    "shick": 28,
+    "width": 0,
+    "height": 0,
+    "weight": 43.7
+  },
+  {
+    "code": 900300030060,
+    "product": "針葉樹構造用【特2】 30mm 3尺x6尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 26.34
+  },
+  {
+    "code": 900300040080,
+    "product": "針葉樹合板【特2】 30mm4尺x8尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 46.82
+  },
+  {
+    "code": 902,
+    "product": "針葉樹構造用【特2】片面ｻﾝﾀﾞｰ",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 902090010020,
+    "product": "針葉樹構造用【特2】片面ｻﾝﾀﾞｰ 9mm 1Mx2M",
+    "shick": 9,
+    "width": "",
+    "height": "",
+    "weight": 9.25
+  },
+  {
+    "code": 902090030060,
+    "product": "針葉樹構造用【特2】片面ｻﾝﾀﾞｰ 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 7.9
+  },
+  {
+    "code": 902120030060,
+    "product": "針葉樹構造用【特2】片面ｻﾝﾀﾞｰ12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 10.53
+  },
+  {
+    "code": 903,
+    "product": "針葉樹構造用【特2】ヒノキ",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 903090030060,
+    "product": "針葉樹構造用【特2】ヒノキ 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 7.9
+  },
+  {
+    "code": 903120030060,
+    "product": "針葉樹構造用【特2】ヒノキ 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 10.53
+  },
+  {
+    "code": 903150030060,
+    "product": "針葉樹構造用【特2】ヒノキ 15mm 3尺x6尺",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 13.17
+  },
+  {
+    "code": 903180030060,
+    "product": "針葉樹構造用【特2】ヒノキ 18mm 3尺x6尺",
+    "shick": 18,
+    "width": "",
+    "height": "",
+    "weight": 15.8
+  },
+  {
+    "code": 903210030060,
+    "product": "針葉樹構造用【特2】ヒノキ 21mm 3尺x6尺",
+    "shick": 21,
+    "width": "",
+    "height": "",
+    "weight": 18.43
+  },
+  {
+    "code": 903240030060,
+    "product": "針葉樹構造用【特2】ヒノキ 24mm 3尺x6尺",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 21.07
+  },
+  {
+    "code": 903280030060,
+    "product": "針葉樹構造用【特2】ヒノキ 28mm 3尺x6尺",
+    "shick": 28,
+    "width": "",
+    "height": "",
+    "weight": 24.58
+  },
+  {
+    "code": 903300030060,
+    "product": "針葉樹構造用【特2】ヒノキ 30mm 3尺x6尺",
+    "shick": 30,
+    "width": "",
+    "height": "",
+    "weight": 26.34
+  },
+  {
+    "code": 905050030060,
+    "product": "針葉樹構造用【Ⅰ2】 5mm 3尺x6尺",
+    "shick": 5,
+    "width": 0,
+    "height": 0,
+    "weight": 4.39
+  },
+  {
+    "code": 905120030060,
+    "product": "針葉樹構造用【Ⅰ2】 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": ""
+  },
+  {
+    "code": 905180010020,
+    "product": "針葉樹構造用【Ⅰ2】 18mm 1Mx2M",
+    "shick": 18,
+    "width": "",
+    "height": "",
+    "weight": ""
+  },
+  {
+    "code": 905180030060,
+    "product": "針葉樹構造用【Ⅰ2】 18mm 3尺x6尺",
+    "shick": 18,
+    "width": "",
+    "height": "",
+    "weight": ""
+  },
+  {
+    "code": 910,
+    "product": "針葉樹構造用【特2】<実>",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 910120020075,
+    "product": "針葉樹構造(特2)<実> 12mm 2尺x7.5尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 8.78
+  },
+  {
+    "code": 910120020080,
+    "product": "針葉樹構造(特2)<実> 12mm 2尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 9.36
+  },
+  {
+    "code": 910120030060,
+    "product": "針葉樹構造用【特2】《実》 12mm 3尺x6尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 10.53
+  },
+  {
+    "code": 910150030060,
+    "product": "針葉樹構造用【特2】《実》 15mm 3尺x6尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 13.17
+  },
+  {
+    "code": 910150040080,
+    "product": "針葉樹合板<実> 15mm 4尺x8尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 23.41
+  },
+  {
+    "code": 910180030060,
+    "product": "針葉樹構造(特2)<実> 18mm 3尺x6尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 15.8
+  },
+  {
+    "code": 910240030060,
+    "product": "針葉樹構造用【特2】《実》 24mm 3尺x6尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 21.7
+  },
+  {
+    "code": 913,
+    "product": "針葉樹構造用【特2】ヒノキ<実>",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 913240030060,
+    "product": "針葉樹構造用【特2】ﾋﾉｷ<実>24mm 3尺x6尺",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 21.07
+  },
+  {
+    "code": 917120010100,
+    "product": 917120010100,
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 920,
+    "product": "内装用針葉樹",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 923,
+    "product": "内装用針葉樹【ﾋﾉｷ】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 923055030060,
+    "product": "内装用針葉樹【ﾋﾉｷ】 5.5mm 3尺x6尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 4.83
+  },
+  {
+    "code": 923090030060,
+    "product": "内装用針葉樹【ﾋﾉｷ】 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 7.9
+  },
+  {
+    "code": 923120030060,
+    "product": "内装用針葉樹【ﾋﾉｷ】 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 10.53
+  },
+  {
+    "code": 924,
+    "product": "内装用針葉樹【杉】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 924090030060,
+    "product": "内装用針葉樹【杉】 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 7.9
+  },
+  {
+    "code": 924120030060,
+    "product": "内装用針葉樹【杉】 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 10.53
+  },
+  {
+    "code": 924240030060,
+    "product": "内装用針葉樹【杉】 24mm 3尺x6尺",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 21.07
+  },
+  {
+    "code": 924280030060,
+    "product": "内装用針葉樹【杉】 28mm 3尺x6尺",
+    "shick": 28,
+    "width": "",
+    "height": "",
+    "weight": 24.58
+  },
+  {
+    "code": 925090030060,
+    "product": "内装用針葉樹【ｶﾗﾏﾂ】 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 7.9
+  },
+  {
+    "code": 925120030060,
+    "product": "内装用針葉樹【ｶﾗﾏﾂ】 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 10.53
+  },
+  {
+    "code": 925240030060,
+    "product": "内装用針葉樹【ｶﾗﾏﾂ】 24mm 3尺x6尺",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 21.07
+  },
+  {
+    "code": 925280030060,
+    "product": "内装用針葉樹【ｶﾗﾏﾂ】 28mm 3尺x6尺",
+    "shick": 28,
+    "width": "",
+    "height": "",
+    "weight": 24.58
+  },
+  {
+    "code": 926090030060,
+    "product": "内装用針葉樹【赤松】 9㎜ 3尺ｘ6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 7.9
+  },
+  {
+    "code": 927120030060,
+    "product": "ｲﾝﾃﾘｱ 針葉樹 12mm 3尺x6尺 片面ｻﾝﾀﾞｰ",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 12.5
+  },
+  {
+    "code": 930,
+    "product": "あらわしﾊﾟﾈﾙ(F4S)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 930090010020,
+    "product": "あらわしﾊﾟﾈﾙ(F4S) 9mm 1Mx2M",
+    "shick": 9,
+    "width": "",
+    "height": "",
+    "weight": 9.25
+  },
+  {
+    "code": 930090030060,
+    "product": "あらわしﾊﾟﾈﾙ(F4S) 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 7.9
+  },
+  {
+    "code": 930240030060,
+    "product": "あらわしﾊﾟﾈﾙ(F4S) 24mm 3尺x6尺",
+    "shick": 24,
+    "width": "",
+    "height": "",
+    "weight": 21.07
+  },
+  {
+    "code": 931,
+    "product": "あらわしﾊﾟﾈﾙ(F4S)<実>",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 931280030060,
+    "product": "あらわしﾊﾟﾈﾙ(F4S)<実> 28mm 3尺x6尺",
+    "shick": 28,
+    "width": "",
+    "height": "",
+    "weight": 24.58
+  },
+  {
+    "code": 940,
+    "product": "ｶﾞｲﾅｰﾊﾟﾈﾙ【特2】杉",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 940095030060,
+    "product": "ｶﾞｲﾅｰﾊﾟﾈﾙ【特2】杉 9.5mm 3尺x6尺",
+    "shick": 9.5,
+    "width": "",
+    "height": "",
+    "weight": 8.34
+  },
+  {
+    "code": 940125030060,
+    "product": "ｶﾞｲﾅｰﾊﾟﾈﾙ【特2】杉 12.5mm 3尺x6尺",
+    "shick": 12.5,
+    "width": "",
+    "height": "",
+    "weight": 12.92
+  },
+  {
+    "code": 9402023030060,
+    "product": "削除ﾗﾜﾝ合板 T2 (C) 2.3mm 3尺x6尺",
+    "shick": 2.3,
+    "width": 0,
+    "height": 0,
+    "weight": 2.38
+  },
+  {
+    "code": 941,
+    "product": "Mｸﾛｽ",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 941095030060,
+    "product": "Mｸﾛｽ 9.5mm 3尺x6尺",
+    "shick": 9.5,
+    "width": "",
+    "height": "",
+    "weight": 8.34
+  },
+  {
+    "code": 941125010020,
+    "product": "Mｸﾛｽ 12.5mm 1Mx2M",
+    "shick": 12.5,
+    "width": "",
+    "height": "",
+    "weight": 15.13
+  },
+  {
+    "code": 941125030060,
+    "product": "Mｸﾛｽ 12.5mm 3尺x6尺",
+    "shick": 12.5,
+    "width": "",
+    "height": "",
+    "weight": 12.92
+  },
+  {
+    "code": 941125030080,
+    "product": "Mｸﾛｽ 12.5㎜ 3尺x8尺",
+    "shick": 12.5,
+    "width": 0,
+    "height": 0,
+    "weight": 17.23
+  },
+  {
+    "code": 942125030060,
+    "product": "ｼﾝﾗｲﾅｰ 12.5mm 3尺x6尺",
+    "shick": 12.5,
+    "width": 0,
+    "height": 0,
+    "weight": 12.92
+  },
+  {
+    "code": 945,
+    "product": "不燃針葉樹",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 9451125030060,
+    "product": "削除ﾗﾜﾝ輸入合板(F4S) T1G1 12.5mm 3尺x6尺",
+    "shick": 12.5,
+    "width": "",
+    "height": "",
+    "weight": 12.92
+  },
+  {
+    "code": 945120030060,
+    "product": "不燃構造用合板【針葉樹】12mm 3x6",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 10.53
+  },
+  {
+    "code": 9452025030060,
+    "product": "削除ﾗﾜﾝ輸入合板(F4S) T1G2 2.5mm 3尺x6尺",
+    "shick": 2.5,
+    "width": 0,
+    "height": 0,
+    "weight": 2.58
+  },
+  {
+    "code": 9453055040080,
+    "product": "削除ﾗﾜﾝ輸入合板(F4S) T2G1 5.5mm 4尺x8尺",
+    "shick": 5.5,
+    "width": 0,
+    "height": 0,
+    "weight": 10.1
+  },
+  {
+    "code": 9473120030060,
+    "product": "削除ﾗﾜﾝ構造用【Ⅰ1】(F4S) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 961,
+    "product": "ラトビアバーチ合板",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 961000,
+    "product": "ＣＯＶＡ",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 961040040080,
+    "product": "ﾗﾄﾋﾞｱﾊﾞｰﾁ(縦目) 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 961065040080,
+    "product": "ﾗﾄﾋﾞｱﾊﾞｰﾁ(縦目) 6.5mm 4尺x8尺",
+    "shick": 6.5,
+    "width": 0,
+    "height": 0,
+    "weight": 11.94
+  },
+  {
+    "code": 961090040080,
+    "product": "ﾗﾄﾋﾞｱﾊﾞｰﾁ(縦目) 9mm 4尺x8尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 16.53
+  },
+  {
+    "code": 961120040080,
+    "product": "ﾗﾄﾋﾞｱﾊﾞｰﾁ(縦目) 12mm 4尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 22.04
+  },
+  {
+    "code": 961150040080,
+    "product": "ﾗﾄﾋﾞｱﾊﾞｰﾁ(縦目) 15mm 4尺x8尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 27.55
+  },
+  {
+    "code": 961180030070,
+    "product": "ﾗﾄﾋﾞｱﾊﾞｰﾁ(縦目) 18mm 3尺x7尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 22.05
+  },
+  {
+    "code": 961180040080,
+    "product": "ﾗﾄﾋﾞｱﾊﾞｰﾁ(縦目) 18mm 4尺x8尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 33.06
+  },
+  {
+    "code": 961210040080,
+    "product": "ﾗﾄﾋﾞｱﾊﾞｰﾁ(縦目) 21mm 4尺x8尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 38.58
+  },
+  {
+    "code": 961240040080,
+    "product": "ﾗﾄﾋﾞｱﾊﾞｰﾁ(縦目) 24mm 4尺x8尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 44.09
+  },
+  {
+    "code": 961290040080,
+    "product": "ﾗﾄﾋﾞｱﾊﾞｰﾁ(縦目) 29mm 4尺x8尺",
+    "shick": 29,
+    "width": 0,
+    "height": 0,
+    "weight": 53.27
+  },
+  {
+    "code": 961300040080,
+    "product": "ﾗﾄﾋﾞｱﾊﾞｰﾁ(縦目) 30mm 4尺x8尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 53.27
+  },
+  {
+    "code": 962,
+    "product": "ﾌｨﾝﾗﾝﾄﾞﾊﾞｰﾁ",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 962120040080,
+    "product": "ﾊﾞｰﾁ(白樺)合板(縦目) 12mm 4尺x8尺 BB/B",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 23
+  },
+  {
+    "code": 962150040080,
+    "product": "ﾊﾞｰﾁ(白樺)合板(縦目)15mm4尺ｘ8尺 BB/BB",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 27.55
+  },
+  {
+    "code": 962300040080,
+    "product": "ﾊﾞｰﾁ(ﾌｨﾝﾗﾝﾄﾞ)合板(横目) 30mm 4尺x8尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 53.27
+  },
+  {
+    "code": 963180030080,
+    "product": "ﾊﾞｰﾁ(国産杉・ｶﾗ松) 18mm 3尺x8尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 21.33
+  },
+  {
+    "code": 963180040080,
+    "product": "(ｻﾝﾀﾞｰ)ﾗﾄﾋﾞｱﾊﾞｰﾁ(縦目)18mm4尺x8尺F:1/B:1",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 33.06
+  },
+  {
+    "code": 963240040080,
+    "product": "ﾊﾞｰﾁ(ﾌｨﾝﾗﾝﾄﾞ)合板(横目)24mm 4尺x8尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 44.09
+  },
+  {
+    "code": 964180030080,
+    "product": "ﾊﾞｰﾁ(ﾌｧﾙｶﾀ) 18mm 3尺x8尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 21.33
+  },
+  {
+    "code": 965,
+    "product": "HEXI",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 966,
+    "product": "樺鶴(ｶﾝﾊﾞﾂﾞﾙ)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 966180030060,
+    "product": "樺鶴(ｶﾝﾊﾞﾂﾞﾙ) 18mm 3尺x6尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 18.59
+  },
+  {
+    "code": 966210030060,
+    "product": "樺鶴(ｶﾝﾊﾞﾂﾞﾙ) 21mm 3尺x6尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 21.69
+  },
+  {
+    "code": 966240030060,
+    "product": "樺鶴(ｶﾝﾊﾞﾂﾞﾙ) 24mm 3尺x6尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 24.79
+  },
+  {
+    "code": 966300030060,
+    "product": "樺鶴(ｶﾝﾊﾞﾂﾞﾙ) 30mm 3尺x6尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 30.98
+  },
+  {
+    "code": 970150,
+    "product": "ｴｱｰﾃﾞｰﾙ(通気胴縁) 15mm 45x3000",
+    "shick": 15,
+    "width": 45,
+    "height": 3000,
+    "weight": 1.28
+  },
+  {
+    "code": 970180,
+    "product": "ｴｱｰﾃﾞｰﾙ(通気胴縁) 18mm 45x3000",
+    "shick": 18,
+    "width": 45,
+    "height": 3000,
+    "weight": 1.53
+  },
+  {
+    "code": 984,
+    "product": "針葉樹構造用（KTP撥水加工）24㎜ 3×6",
+    "shick": 24,
+    "width": 910,
+    "height": 1820,
+    "weight": 22.66
+  },
+  {
+    "code": 9860120030060,
+    "product": "削除P.B.【建築】(F4S) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 12.4
+  },
+  {
+    "code": 9860150030060,
+    "product": "削除P.B.【建築】(F4S) 15mm 3尺x6尺",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 15.5
+  },
+  {
+    "code": 9860200030060,
+    "product": "削除P.B.【建築】(F4S) 20mm 3尺x6尺",
+    "shick": 20,
+    "width": "",
+    "height": "",
+    "weight": 20.67
+  },
+  {
+    "code": 9860250030060,
+    "product": "削除P.B.【建築】(F4S) 25mm 3尺x6尺",
+    "shick": 25,
+    "width": "",
+    "height": "",
+    "weight": 25.83
+  },
+  {
+    "code": 990,
+    "product": "針葉樹格外",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 990050030060,
+    "product": "針葉樹合板 5mm 3尺x6尺 島根",
+    "shick": 5,
+    "width": 0,
+    "height": 0,
+    "weight": 4.39
+  },
+  {
+    "code": 990120030060,
+    "product": "針葉樹格外 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 10.53
+  },
+  {
+    "code": 990150030060,
+    "product": "針葉樹格外 15mm 3尺x6尺",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 13.17
+  },
+  {
+    "code": 990240030060,
+    "product": "針葉樹格外 24mm 3尺x6尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 21.07
+  },
+  {
+    "code": 991090010020,
+    "product": "針葉樹Wet 9mm 1Mx2M",
+    "shick": 9,
+    "width": "",
+    "height": "",
+    "weight": 9.25
+  },
+  {
+    "code": 991090010080,
+    "product": "針葉樹Wet 9mm 1Mx8尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 11.4
+  },
+  {
+    "code": 991090010100,
+    "product": "針葉樹Wet 9mm 1Mx10尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 14.25
+  },
+  {
+    "code": 991090030060,
+    "product": "針葉樹Wet 9mm 3尺x6尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 7.9
+  },
+  {
+    "code": 991090030100,
+    "product": "針葉樹Wet 9mm 3尺x10尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 13.17
+  },
+  {
+    "code": 991120010100,
+    "product": "針葉樹Wet 12mm 1Mx10尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 19
+  },
+  {
+    "code": 991120030060,
+    "product": "針葉樹Wet 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 10.53
+  },
+  {
+    "code": 991120040080,
+    "product": "針葉樹Wet 12mm 4尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 18.73
+  },
+  {
+    "code": 991150030060,
+    "product": "針葉樹Wet 15mm 3尺x6尺",
+    "shick": 15,
+    "width": "",
+    "height": "",
+    "weight": 13.17
+  },
+  {
+    "code": 992,
+    "product": "防腐防蟻",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 992120030060,
+    "product": "針葉樹防腐防蟻(F4S) 12mm 3尺x6尺",
+    "shick": 12,
+    "width": "",
+    "height": "",
+    "weight": 10.53
+  },
+  {
+    "code": 993,
+    "product": "針葉樹(B)",
+    "shick": 0,
+    "width": "",
+    "height": "",
+    "weight": 0
+  },
+  {
+    "code": 993280030060,
+    "product": "針葉樹(B) 28mm 3尺x6尺",
+    "shick": 28,
+    "width": "",
+    "height": "",
+    "weight": 24.58
+  },
+  {
+    "code": 9961040040080,
+    "product": "削除ﾊﾞｰﾁ(白樺)合板(縦目) 4mm 4尺x8尺",
+    "shick": 4,
+    "width": 0,
+    "height": 0,
+    "weight": 7.35
+  },
+  {
+    "code": 9961090040080,
+    "product": "削除ﾊﾞｰﾁ(白樺)合板(縦目) 9mm 4尺x8尺",
+    "shick": 9,
+    "width": 0,
+    "height": 0,
+    "weight": 16.53
+  },
+  {
+    "code": 9961120040080,
+    "product": "削除ﾊﾞｰﾁ(白樺)合板(縦目) 12mm 4尺x8尺",
+    "shick": 12,
+    "width": 0,
+    "height": 0,
+    "weight": 18.73
+  },
+  {
+    "code": 9961150040080,
+    "product": "削除ﾊﾞｰﾁ(白樺)合板(縦目) 15mm 4尺x8尺",
+    "shick": 15,
+    "width": 0,
+    "height": 0,
+    "weight": 27.55
+  },
+  {
+    "code": 9961180040080,
+    "product": "削除ﾊﾞｰﾁ(白樺)合板(縦目) 18mm 4尺x8尺",
+    "shick": 18,
+    "width": 0,
+    "height": 0,
+    "weight": 28.09
+  },
+  {
+    "code": 9961210040080,
+    "product": "削除ﾊﾞｰﾁ(白樺)合板(縦目) 21mm 4尺x8尺",
+    "shick": 21,
+    "width": 0,
+    "height": 0,
+    "weight": 38.58
+  },
+  {
+    "code": 9961240040080,
+    "product": "削除ﾊﾞｰﾁ(白樺)合板(縦目) 24mm 4尺x8尺",
+    "shick": 24,
+    "width": 0,
+    "height": 0,
+    "weight": 44.09
+  },
+  {
+    "code": 9961300040080,
+    "product": "削除ﾊﾞｰﾁ(白樺)合板(縦目) 30mm 4尺x8尺",
+    "shick": 30,
+    "width": 0,
+    "height": 0,
+    "weight": 55.11
+  },
+  {
+    "code": 999,
+    "product": "消費税",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 999000,
+    "product": "Taguchiスピーカー",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 9990000613,
+    "product": "Taguchiスピーカー【F-6613 DUO】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 999001,
+    "product": "Taguchi【LIGHT】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 999002,
+    "product": "Taguchi【LIGHT】Hanging-monaural",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 999003,
+    "product": "Taguchi【LIGHT】Hanging-stereo",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 999004,
+    "product": "Taguchi【LIGHT】stand-monaural",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 999005,
+    "product": "Taguchi【LIGHT】Stand-stereo",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 999011,
+    "product": "Taguchi【LITTLE BEL】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 999012,
+    "product": "Taguchi【BEL】",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 9999,
+    "product": "iPhone+PLY",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 99999,
+    "product": "販売用ＣＤ",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  },
+  {
+    "code": 999999999,
+    "product": "(DM)",
+    "shick": 0,
+    "width": 0,
+    "height": 0,
+    "weight": 0
+  }
+]
