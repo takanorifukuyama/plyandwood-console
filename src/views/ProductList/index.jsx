@@ -1,36 +1,19 @@
 import React, { Component } from 'react';
-// import { Link } from 'react-router-dom';
-
-// Externals
 import PropTypes from 'prop-types';
-
-// Material helpers
 import { withStyles } from '@material-ui/core';
-
-// Material components
 import {
   IconButton,
   CircularProgress,
   Grid,
   Typography
 } from '@material-ui/core';
-
-// Material icons
 import {
   ChevronRight as ChevronRightIcon,
   ChevronLeft as ChevronLeftIcon
 } from '@material-ui/icons';
-
-// Shared layouts
 import { Dashboard as DashboardLayout } from 'layouts';
-
-// Shared services
 import { getProducts } from 'services/product';
-
-// Custom components
 import { ProductsToolbar, SimpleTable } from './components';
-
-// Component styles
 import styles from './styles';
 
 class ProductList extends Component {
