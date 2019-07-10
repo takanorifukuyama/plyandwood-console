@@ -1,13 +1,12 @@
-import { SEARCH_INPUT } from '../actions'
+import { FILTER_PRODUCTS } from '../actions'
 
 // eslint-disable-next-line
 const data = require('./products.json')
 
-const initialState = {}
-export default (state=initialState, action) => {
+export default (state=data, action) => {
   switch(action.type){
-    case SEARCH_INPUT:
-      return state;
+    case FILTER_PRODUCTS:
+      return action.array;
     default:
       return state;
   }

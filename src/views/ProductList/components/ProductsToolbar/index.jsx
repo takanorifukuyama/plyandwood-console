@@ -1,27 +1,30 @@
 import React, { Component } from 'react';
-
-// Externals
+import { connect } from "react-redux"
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
-
-// Material helpers
 import { withStyles } from '@material-ui/core';
-
-// Material components
 import { Button } from '@material-ui/core';
-
-// Shared components
 import { DisplayMode, SearchInput } from 'components';
-
-// Component styles
+import { search_input } from "../../../../actions"
 import styles from './styles';
+
+var data = require('./products.json')
 
 class ProductsToolbar extends Component {
   render() {
-    const { classes, className } = this.props;
-
+    const { classes, className, products, input_change } = this.props;
     const rootClassName = classNames(classes.root, className);
-
+    function handle_input(e){
+      console.log(e.target.value)
+      var val = e.target.value
+      // JavaScriptのfilter()メソッドで絞り込み、絞り込んだ配列をline変数に格納
+      const line = data.filter((item) => (
+      // idまたはnameにキーワードが含まれていればtrueを返す
+        item.code.toString().indexOf(val) >= 0
+        || item.product.toString().indexOf(val) >= 0
+      ));
+      input_change(line)
+    }
     return (
       <div className={rootClassName}>
         <div className={classes.row}>
@@ -38,6 +41,7 @@ class ProductsToolbar extends Component {
           <SearchInput
             className={classes.searchInput}
             placeholder="Search product"
+            onChange={handle_input}
           />
           <span className={classes.spacer} />
           <DisplayMode mode="grid" />
@@ -51,5 +55,11 @@ ProductsToolbar.propTypes = {
   className: PropTypes.string,
   classes: PropTypes.object.isRequired
 };
-
-export default withStyles(styles)(ProductsToolbar);
+const mapStateToProps = state => ({
+  products: state.products,
+})
+const mapDispatchToProps = dispatch => ({
+  input_change: value => dispatch(search_input(value))
+})
+// export default connect(withStyles(styles)(ProductsToolbar))(mapStateToProps, mapDispatchToProps)
+export default withStyles(styles)(connect(mapStateToProps, mapDispatchToProps)(ProductsToolbar))

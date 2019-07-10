@@ -1,4 +1,5 @@
 import React from 'react';
+import { connect } from "react-redux"
 import { makeStyles } from '@material-ui/core/styles';
 import Table from '@material-ui/core/Table';
 import TableBody from '@material-ui/core/TableBody';
@@ -6,10 +7,6 @@ import TableCell from '@material-ui/core/TableCell';
 import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
 import Paper from '@material-ui/core/Paper';
-
-
-// eslint-disable-next-line no-undef
-var data = require('./products.json')
 
 const useStyles = makeStyles(theme => ({
   root: {
@@ -22,7 +19,8 @@ const useStyles = makeStyles(theme => ({
   },
 }));
 
-export default function SimpleTable() {
+
+function SimpleTable({products}) {
   const classes = useStyles();
 
   return (
@@ -38,7 +36,7 @@ export default function SimpleTable() {
           </TableRow>
         </TableHead>
         <TableBody>
-          {data.map(row => (
+          {products.map(row => (
             <TableRow key={row.name}>
               {/* eslint-disable-next-line */}
               <TableCell component="th" scope="row">
@@ -55,3 +53,10 @@ export default function SimpleTable() {
     </Paper>
   );
 }
+
+const mapStateToProps = state => ({
+  products: state.products,
+})
+
+
+export default connect(mapStateToProps)(SimpleTable)

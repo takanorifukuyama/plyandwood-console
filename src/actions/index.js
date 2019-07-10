@@ -1,4 +1,5 @@
-export const SEARCH_INPUT = 'SEARCH_INPUT'
-export const search_input = () => ({
-  type: SEARCH_INPUT,
+export const FILTER_PRODUCTS = 'FILTER_PRODUCTS'
+export const search_input = array => ({
+  type: FILTER_PRODUCTS,
+  array,
 })
